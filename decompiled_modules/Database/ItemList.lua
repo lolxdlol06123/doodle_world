@@ -1,5 +1,5 @@
 -- Decompiled with the Synapse X Luau decompiler.
--- This also contains the functions used in the items, which shows you what the items do in depths
+-- This also contains the functions used in the items, which shows you what the items do in-depth
 
 local u1 = {};
 return function(p1)
