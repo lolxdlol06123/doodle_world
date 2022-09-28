@@ -1,0 +1,2705 @@
+{
+    "Flittum":{
+        "Scroll":[
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Hide"
+            ]
+        ]
+    },
+    "Drakothread":{
+        "Scroll":[
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Skorpent":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt"
+            ]
+        ]
+    },
+    "Partybug":{
+        "Scroll":[
+            "Venom Bite",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Squeak"
+            ]
+        ]
+    },
+    "Furzen":{
+        "Scroll":[
+            "Venom Bite",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball"
+            ]
+        ]
+    },
+    "Candeigon":{
+        "Scroll":[
+            "Shifting Winds",
+            "Retribution",
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Mind Drain",
+                "Wing Slash",
+                "Spicy Tackle",
+                "Squeak"
+            ],
+            null,
+            null,
+            [
+                "Sweet Aroma"
+            ],
+            [
+                "Wide Shield"
+            ],
+            [
+                "Enlightenment"
+            ],
+            null,
+            [
+                "Claw Swipes"
+            ]
+        ],
+        "OnEvolve":[
+            "Mind Drain"
+        ]
+    },
+    "Cacmeow":{
+        "Scroll":[
+            "Disarm",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Bunsweet":{
+        "Scroll":[
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Spicy Tackle",
+                "Squeak"
+            ]
+        ]
+    },
+    "Jelluminous":{
+        "Scroll":[
+            "Disarm",
+            "Rainmaker",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Flare",
+                "Laser"
+            ]
+        ]
+    },
+    "Agotoad":{
+        "Scroll":[
+            "Gem Blast",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt",
+                "Croak"
+            ]
+        ]
+    },
+    "Zapoeira":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Taser"
+            ]
+        ],
+        "OnEvolve":[
+            "Helicopter Kick"
+        ]
+    },
+    "Klicki":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Skitter",
+                "Hide",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Incinelisk":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt"
+            ]
+        ],
+        "OnEvolve":[
+            "Chaotic Bolt"
+        ]
+    },
+    "Somberock":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Gem Blast",
+            "Disarm",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Hide",
+                "Shadowbolt"
+            ]
+        ],
+        "OnEvolve":[
+            "Crystal Cut"
+        ]
+    },
+    "Blossafaun":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Sweet Aroma"
+            ]
+        ]
+    },
+    "Gowatt":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Shock",
+                "Squeak"
+            ]
+        ]
+    },
+    "Bengalux":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Taser",
+                "Dark Slash"
+            ]
+        ],
+        "OnEvolve":[
+            "Dark Slash"
+        ]
+    },
+    "Snortles":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Harden"
+            ]
+        ]
+    },
+    "Theaterror":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack"
+            ]
+        ],
+        "OnEvolve":[
+            "Worthwhile Sacrifice"
+        ]
+    },
+    "Voltatoo":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak",
+                "Hit-n-Run"
+            ]
+        ],
+        "OnEvolve":[
+            "Shock Wave"
+        ]
+    },
+    "Glubbie":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Belch"
+            ]
+        ]
+    },
+    "Appluff":{
+        "Scroll":[
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Spicy Tackle",
+                "Squeak"
+            ]
+        ]
+    },
+    "Polargeist":{
+        "Scroll":[
+            "Retribution",
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Allure"
+            ]
+        ],
+        "OnEvolve":[
+            "Crunch"
+        ]
+    },
+    "Henchum":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Pummel"
+        ]
+    },
+    "Malotrick":{
+        "Scroll":[
+            "Disarm",
+            "Retribution",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Shadowbolt",
+                "Hide",
+                "Mend"
+            ]
+        ]
+    },
+    "Octonut":{
+        "Scroll":[
+            "Rainmaker",
+            "Gem Blast",
+            "Disarm",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll"
+            ]
+        ]
+    },
+    "Squed":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble"
+            ]
+        ]
+    },
+    "Ruffire":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Grufflin":{
+        "Scroll":[
+            "Food Fight",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Haste",
+                "Spicy Tackle",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Haste"
+        ]
+    },
+    "Faunsprout":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Sweet Aroma"
+            ]
+        ]
+    },
+    "Maelzuri":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Magmotode":{
+        "Scroll":[
+            "Gem Blast",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Earth Lance",
+                "Fiery Punch",
+                "Firebolt",
+                "Croak"
+            ]
+        ],
+        "OnEvolve":[
+            "Earth Lance"
+        ]
+    },
+    "Megortles":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Harden"
+            ]
+        ]
+    },
+    "Noxvul":{
+        "Scroll":[
+            "Gem Blast",
+            "Venom Bite",
+            "Retribution",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Squeak",
+                "Wave Shot"
+            ]
+        ],
+        "OnEvolve":[
+            "Chemical Breath"
+        ]
+    },
+    "Horbeast":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Fiery Slash",
+                "Icy Slash",
+                "Electro Slash"
+            ]
+        ]
+    },
+    "Boulduo":{
+        "Scroll":[
+            "Venom Bite",
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble",
+                "Fiery Bite",
+                "Icy Bite",
+                "Electro Bite"
+            ]
+        ],
+        "OnEvolve":[
+            "Double Bite"
+        ]
+    },
+    "Maskrow":{
+        "Scroll":[
+            "Rainmaker",
+            "Retribution",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak"
+            ]
+        ]
+    },
+    "Tabbolt":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe"
+            ]
+        ]
+    },
+    "Xenoxious":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Gigarlic":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Squeak",
+                "Fatten Up",
+                "Allure"
+            ],
+            [
+                "Feast",
+                "Snack Chomp"
+            ]
+        ],
+        "OnEvolve":[
+            "Feast"
+        ]
+    },
+    "Spectatik":{
+        "Scroll":[
+            "Gem Blast",
+            "Disarm",
+            "Retribution",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Harden",
+                "Body Throw"
+            ]
+        ],
+        "OnEvolve":[
+            "Crystal Cut"
+        ]
+    },
+    "Kelpimer":{
+        "Scroll":[
+            "Rainmaker",
+            "Disarm",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt"
+            ]
+        ],
+        "OnEvolve":[
+            "Siren Song"
+        ]
+    },
+    "Clankey":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe"
+            ]
+        ]
+    },
+    "Leapo":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Hide"
+            ]
+        ]
+    },
+    "Mold":{
+        "Scroll":[
+            "Rainmaker",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Pebblett":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble"
+            ]
+        ]
+    },
+    "Spirice":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Allure"
+            ]
+        ],
+        "OnEvolve":[
+            "Frostgrip"
+        ]
+    },
+    "Moss":{
+        "Scroll":[
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Gemin":{
+        "Scroll":[
+            "Gem Blast"
+        ],
+        "Levelup":[
+            [
+                "Geode Smash",
+                "Web"
+            ]
+        ],
+        "OnEvolve":[
+            "Protect"
+        ]
+    },
+    "Marshore":{
+        "Scroll":[
+            "Retribution",
+            "Food Fight",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Sweet Aroma",
+                "Feast",
+                "Seasoning"
+            ]
+        ],
+        "OnEvolve":[
+            "Shadowstep"
+        ]
+    },
+    "Tufflaze":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Scrutinize",
+                "Incinerate"
+            ]
+        ],
+        "OnEvolve":[
+            "Fiery Punch"
+        ]
+    },
+    "Monolugg":{
+        "Scroll":[
+            "Venom Bite",
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble",
+                "Fiery Bite",
+                "Icy Bite",
+                "Electro Bite"
+            ]
+        ],
+        "OnEvolve":[
+            "Iron Chomp"
+        ]
+    },
+    "Twigon":{
+        "Scroll":[
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Serrafin":{
+        "Scroll":[
+            "Rust",
+            "Rainmaker",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Bite",
+                "Waterbolt",
+                "Scrutinize",
+                "Wave Shot"
+            ]
+        ]
+    },
+    "Kibara":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball",
+                "Hide"
+            ]
+        ],
+        "OnEvolve":[
+            "Geode Smash"
+        ]
+    },
+    "Gomutt":{
+        "Scroll":[
+            "Earthquake",
+            "Retribution",
+            "Venom Bite",
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Crunch"
+        ]
+    },
+    "Schiwi":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Archuma":{
+        "Scroll":[
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack"
+            ]
+        ]
+    },
+    "Wvyarn":{
+        "Scroll":[
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Wing Slash"
+        ]
+    },
+    "Bunswirl":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Spicy Tackle",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Glaze Punch"
+        ]
+    },
+    "Beetal":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Skitter",
+                "Hide",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Antenna Beam"
+        ]
+    },
+    "Bonikrow":{
+        "Scroll":[
+            "Rainmaker",
+            "Retribution",
+            "Food Fight",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak"
+            ]
+        ]
+    },
+    "Flaskit":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Squeak"
+            ]
+        ]
+    },
+    "Heatza":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Squeak",
+                "Fatten Up",
+                "Snack Chomp"
+            ]
+        ],
+        "OnEvolve":[
+            "Snack Chomp"
+        ]
+    },
+    "Wisp":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Allure"
+            ]
+        ]
+    },
+    "Mourveil":{
+        "Scroll":[
+            "Gem Blast",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Leaf Sap",
+                "Sad Zone"
+            ]
+        ]
+    },
+    "Humbiscus":{
+        "Scroll":[
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Hide"
+            ]
+        ]
+    },
+    "Spirasol":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Stab",
+                "Flare"
+            ]
+        ],
+        "OnEvolve":[
+            "Quick Strike"
+        ]
+    },
+    "Lumiline":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Blinding Lights"
+            ]
+        ],
+        "OnEvolve":[
+            "Crystal Cut"
+        ]
+    },
+    "Louis":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Endovul":{
+        "Scroll":[
+            "Gem Blast",
+            "Venom Bite",
+            "Retribution",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Squeak",
+                "Wave Shot"
+            ]
+        ],
+        "OnEvolve":[
+            "Chemical Breath"
+        ]
+    },
+    "Riffrat":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Geckgoo":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Gem Blast",
+            "Food Fight"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Squeak"
+            ]
+        ]
+    },
+    "Tadappole":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Cerebopod":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker",
+            "Rust",
+            "Rainmaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Poison Gas",
+                "Roll",
+                "Reverse Singularity"
+            ]
+        ]
+    },
+    "Apurrition":{
+        "Scroll":[
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Mind Power"
+            ]
+        ]
+    },
+    "Glowcat":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Blinding Lights"
+            ]
+        ]
+    },
+    "Angerler":{
+        "Scroll":[
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt"
+            ]
+        ]
+    },
+    "Toxipupa":{
+        "Scroll":[
+            "Venom Bite"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Web",
+                "Harden"
+            ]
+        ],
+        "OnEvolve":[
+            "Harden"
+        ]
+    },
+    "Candygrief":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Gem Blast",
+            "Disarm",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Hide",
+                "Shadowbolt"
+            ]
+        ]
+    },
+    "Wydling":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Squeak"
+            ]
+        ]
+    },
+    "Moyai":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble"
+            ]
+        ]
+    },
+    "Statikeet":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak"
+            ]
+        ]
+    },
+    "Shmellow":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Sweet Aroma",
+                "Feast",
+                "Seasoning"
+            ]
+        ]
+    },
+    "Borbek":{
+        "Scroll":[
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak",
+                "Hide"
+            ]
+        ],
+        "OnEvolve":[
+            "Jet Strike"
+        ]
+    },
+    "Sharazor":{
+        "Scroll":[
+            "Rust",
+            "Rainmaker",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Bite",
+                "Waterbolt",
+                "Scrutinize",
+                "Wave Shot"
+            ]
+        ],
+        "OnEvolve":[
+            "Capsize"
+        ]
+    },
+    "Frigale":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Taunt",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak",
+                "Hide",
+                "Hit-n-Run"
+            ]
+        ],
+        "OnEvolve":[
+            "Toughen"
+        ]
+    },
+    "Vixalor":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Firebolt",
+                "Harmony"
+            ]
+        ],
+        "OnEvolve":[
+            "Foxfire"
+        ]
+    },
+    "Abyssent":{
+        "Scroll":[
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Icy Bite"
+            ]
+        ],
+        "OnEvolve":[
+            "Wrap"
+        ]
+    },
+    "Vipember":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt"
+            ]
+        ]
+    },
+    "Tsumo":{
+        "Scroll":[
+            "Disarm",
+            "Food Fight",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swift Hook",
+                "Firebolt",
+                "Squeak",
+                "Swift Hook"
+            ]
+        ],
+        "OnEvolve":[
+            "Swift Hook"
+        ]
+    },
+    "Voltenchant":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker",
+            "Psychoforce",
+            "Rust"
+        ],
+        "Levelup":[
+            [
+                "Rainmaker",
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Tortles":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Harden"
+            ]
+        ]
+    },
+    "Staligant":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Mind Power",
+                "Squeak"
+            ]
+        ]
+    },
+    "Archopos":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack"
+            ]
+        ],
+        "OnEvolve":[
+            "Spirit Claws"
+        ]
+    },
+    "Metalytra":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Disarm",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Skitter",
+                "Hide",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Claw Swipes"
+        ]
+    },
+    "Skrappey":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe"
+            ]
+        ]
+    },
+    "Terruma":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble"
+            ]
+        ],
+        "OnEvolve":[
+            "Rumbling Charge"
+        ]
+    },
+    "Dramask":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Flare"
+            ]
+        ]
+    },
+    "Pompaboar":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak",
+                "Body Slam"
+            ]
+        ],
+        "OnEvolve":[
+            "Body Slam"
+        ]
+    },
+    "Daeferno":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker",
+            "Taunt",
+            "Burning Orb"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Befuddlement",
+                "Mind Empowerment",
+                "Shadow Lurk"
+            ]
+        ]
+    },
+    "Mawthra":{
+        "Scroll":[
+            "Venom Bite",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Lingering Poison",
+                "Nibble",
+                "Web",
+                "Harden"
+            ]
+        ],
+        "OnEvolve":[
+            "Crush"
+        ]
+    },
+    "Snobat":{
+        "Scroll":[
+            "Venom Bite",
+            "Gem Blast",
+            "Starbreaker",
+            "Shifting Winds",
+            "Taunt"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Pupskey":{
+        "Scroll":[
+            "Venom Bite",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball"
+            ]
+        ]
+    },
+    "Borbo":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak",
+                "Hide"
+            ]
+        ]
+    },
+    "Wiglet":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Squonk":{
+        "Scroll":[
+            "Taunt",
+            "Rainmaker",
+            "Starbreaker",
+            "Burning Orb"
+        ],
+        "Levelup":[
+            [
+                "Shadowy Eyes",
+                "Curse",
+                "Center of Attention",
+                "Heal"
+            ]
+        ]
+    },
+    "Eftue":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Sandstorm",
+                "Pebble"
+            ]
+        ]
+    },
+    "Clangutang":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Shatter"
+            ]
+        ],
+        "OnEvolve":[
+            "Tri-Elemental Slash"
+        ]
+    },
+    "Junipyro":{
+        "Scroll":[
+            "Retribution",
+            "Gem Blast",
+            "Venom Bite",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Bite",
+                "Parasitic Seeds"
+            ]
+        ]
+    },
+    "Vuliable":{
+        "Scroll":[
+            "Gem Blast",
+            "Venom Bite",
+            "Retribution",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Squeak",
+                "Wave Shot"
+            ]
+        ],
+        "OnEvolve":[
+            "Chemical Breath"
+        ]
+    },
+    "Pandishi":{
+        "Scroll":[
+            "Disarm",
+            "Food Fight",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt",
+                "Squeak",
+                "Swift Hook"
+            ]
+        ]
+    },
+    "Indigoo":{
+        "Scroll":[
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Spicy Tackle",
+                "Squeak"
+            ]
+        ]
+    },
+    "Yagoat":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Shock",
+                "Squeak"
+            ]
+        ]
+    },
+    "Klydaskunk":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Venom Bite",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Blinding Lights"
+            ]
+        ]
+    },
+    "Marigrimm":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Siren Song"
+        ]
+    },
+    "Gummelia":{
+        "Scroll":[
+            "Shifting Winds",
+            "Retribution",
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Wing Slash",
+                "Spicy Tackle",
+                "Squeak",
+                "Enlightenment"
+            ]
+        ],
+        "OnEvolve":[
+            "Wing Slash"
+        ]
+    },
+    "Roscoon":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Web",
+                "Harden"
+            ]
+        ],
+        "OnEvolve":[
+            "Harden"
+        ]
+    },
+    "Rosebug":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Web"
+            ]
+        ]
+    },
+    "Muttish":{
+        "Scroll":[
+            "Rainmaker",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Spiraryu":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Pursuit"
+        ]
+    },
+    "Kowosu":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Runewt":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Sandstorm",
+                "Pebble"
+            ]
+        ]
+    },
+    "Shelldo":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Harden",
+                "Protect",
+                "Scrutinize"
+            ]
+        ]
+    },
+    "Impling":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker",
+            "Taunt",
+            "Burning Orb"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Befuddlement",
+                "Mind Empowerment",
+                "Shadow Lurk"
+            ]
+        ]
+    },
+    "Kitsen":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Firebolt",
+                "Harmony"
+            ]
+        ]
+    },
+    "Medikrow":{
+        "Scroll":[
+            "Rainmaker",
+            "Retribution",
+            "Food Fight",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak",
+                "Relief"
+            ]
+        ],
+        "OnEvolve":[
+            "Goo Blast"
+        ]
+    },
+    "Sharpup":{
+        "Scroll":[
+            "Rust",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Bite",
+                "Waterbolt",
+                "Scrutinize",
+                "Wave Shot"
+            ]
+        ]
+    },
+    "Springling":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Hide"
+            ]
+        ]
+    },
+    "Wolfreeze":{
+        "Scroll":[
+            "Venom Bite",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball"
+            ]
+        ],
+        "OnEvolve":[
+            "Royal Ice"
+        ]
+    },
+    "Kidere":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball",
+                "Hide"
+            ]
+        ],
+        "OnEvolve":[
+            "Aurora Flash"
+        ]
+    },
+    "Shyce":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Snowball",
+                "Hide"
+            ]
+        ]
+    },
+    "Meltimaw":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Squeak",
+                "Fatten Up",
+                "Allure"
+            ],
+            [
+                "Double Bite",
+                "Snack Chomp"
+            ]
+        ],
+        "OnEvolve":[
+            "Double Bite"
+        ]
+    },
+    "Squelly":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Rust",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Mind Power",
+                "Waterbolt"
+            ]
+        ]
+    },
+    "Glummish":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Leaf Sap",
+                "Sad Zone"
+            ]
+        ]
+    },
+    "Slibble":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Starbreaker",
+            "Rust",
+            "Rainmaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Poison Gas",
+                "Roll"
+            ]
+        ]
+    },
+    "Muncheez":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Squeak"
+            ]
+        ]
+    },
+    "Shadark":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Fiery Slash",
+                "Icy Slash",
+                "Electro Slash"
+            ]
+        ],
+        "OnEvolve":[
+            "Dark Slash"
+        ]
+    },
+    "Webennae":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Wrap",
+                "Hide",
+                "Harden"
+            ]
+        ],
+        "OnEvolve":[
+            "Harden"
+        ]
+    },
+    "Caramellow":{
+        "Scroll":[
+            "Retribution",
+            "Food Fight",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Berserk",
+                "Sweet Aroma",
+                "Feast",
+                "Seasoning"
+            ]
+        ],
+        "OnEvolve":[
+            "Bestial Roar"
+        ]
+    },
+    "Djinneko":{
+        "Scroll":[
+            "Disarm",
+            "Food Fight",
+            "Burning Orb",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Boo!",
+                "Mind Power"
+            ]
+        ],
+        "OnEvolve":[
+            "Body Slam"
+        ]
+    },
+    "Plipo":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Squeak",
+                "Panhandle"
+            ]
+        ]
+    },
+    "Larvennae":{
+        "Scroll":[
+            
+        ],
+        "Levelup":[
+            [
+                "Wrap",
+                "Hide"
+            ]
+        ]
+    },
+    "Kelpie":{
+        "Scroll":[
+            "Rainmaker",
+            "Disarm",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt"
+            ]
+        ]
+    },
+    "Cocosquid":{
+        "Scroll":[
+            "Rainmaker",
+            "Gem Blast",
+            "Disarm",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll"
+            ]
+        ]
+    },
+    "Skadean":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Levilen":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Rainmaker",
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Aspark":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Rainmaker",
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Calamander":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Sweet Aroma"
+            ]
+        ]
+    },
+    "Glimmew":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Blinding Lights"
+            ]
+        ]
+    },
+    "Elektiel":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Peck",
+                "Squeak"
+            ]
+        ]
+    },
+    "Exovul":{
+        "Scroll":[
+            "Gem Blast",
+            "Venom Bite",
+            "Retribution",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Roll",
+                "Squeak",
+                "Wave Shot"
+            ]
+        ],
+        "OnEvolve":[
+            "Chemical Breath"
+        ]
+    },
+    "Chronos":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Shock",
+                "Haste"
+            ]
+        ]
+    },
+    "Maskomedy":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Burning Orb",
+            "Taunt",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Flare"
+            ]
+        ],
+        "OnEvolve":[
+            "Gleeful Ruse"
+        ]
+    },
+    "Lilbulb":{
+        "Scroll":[
+            "Disarm",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Flare",
+                "Laser"
+            ]
+        ]
+    },
+    "Cryotera":{
+        "Scroll":[
+            "Venom Bite",
+            "Gem Blast",
+            "Starbreaker",
+            "Shifting Winds",
+            "Taunt"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Scrutinize"
+            ]
+        ],
+        "OnEvolve":[
+            "Ambush"
+        ]
+    },
+    "Coalt":{
+        "Scroll":[
+            "Gem Blast",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Pebble"
+            ]
+        ]
+    },
+    "Crystik":{
+        "Scroll":[
+            "Gem Blast"
+        ],
+        "Levelup":[
+            [
+                "Geode Smash",
+                "Web"
+            ]
+        ]
+    },
+    "Bionotic":{
+        "Scroll":[
+            "Disarm",
+            "Gem Blast",
+            "Rainmaker",
+            "Rust",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Mind Power",
+                "Waterbolt"
+            ]
+        ]
+    },
+    "Spunny":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Swipe",
+                "Squeak"
+            ]
+        ]
+    },
+    "Prickles":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rainmaker",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Counter Punch"
+        ]
+    },
+    "Needling":{
+        "Scroll":[
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Squeak"
+            ]
+        ]
+    },
+    "Swoptar":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Disarm",
+            "Rainmaker",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Stab",
+                "Crit Up",
+                "Sharp Claws"
+            ]
+        ]
+    },
+    "Corrolizard":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker",
+            "Psychoforce"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Squeak"
+            ]
+        ]
+    },
+    "Grimeleon":{
+        "Scroll":[
+            "Retribution",
+            "Venom Bite",
+            "Gem Blast",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Squeak"
+            ]
+        ],
+        "OnEvolve":[
+            "Bite"
+        ]
+    },
+    "Antenaflight":{
+        "Scroll":[
+            "Disarm",
+            "Food Fight",
+            "Taunt",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Wrap",
+                "Hide",
+                "Harden",
+                "Hit-n-Run"
+            ]
+        ],
+        "OnEvolve":[
+            "Jet Strike"
+        ]
+    },
+    "Leazar":{
+        "Scroll":[
+            "Retribution",
+            "Disarm",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Hide"
+            ]
+        ],
+        "OnEvolve":[
+            "Slash"
+        ]
+    },
+    "Tulenna":{
+        "Scroll":[
+            "Disarm",
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Smack",
+                "Sweet Aroma"
+            ]
+        ]
+    },
+    "Amphipyre":{
+        "Scroll":[
+            "Gem Blast",
+            "Burning Orb",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Fiery Punch",
+                "Firebolt",
+                "Croak"
+            ]
+        ],
+        "OnEvolve":[
+            "Fiery Punch"
+        ]
+    },
+    "Fruitoad":{
+        "Scroll":[
+            "Gem Blast",
+            "Rainmaker",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Waterbolt",
+                "Squeak"
+            ]
+        ]
+    },
+    "Thornet":{
+        "Scroll":[
+            "Starbreaker",
+            "Shifting Winds"
+        ],
+        "Levelup":[
+            [
+                "Hit-n-Run",
+                "Nibble",
+                "Web",
+                "Harden"
+            ]
+        ],
+        "OnEvolve":[
+            "Quick Sting"
+        ]
+    },
+    "Nibblen":{
+        "Scroll":[
+            "Venom Bite"
+        ],
+        "Levelup":[
+            [
+                "Nibble",
+                "Web"
+            ]
+        ]
+    },
+    "Grimsugar":{
+        "Scroll":[
+            "Retribution",
+            "Rainmaker",
+            "Gem Blast",
+            "Disarm",
+            "Food Fight",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Hide",
+                "Shadowbolt"
+            ]
+        ]
+    },
+    "Groato":{
+        "Scroll":[
+            "Gem Blast",
+            "Food Fight",
+            "Rust",
+            "Starbreaker"
+        ],
+        "Levelup":[
+            [
+                "Lick",
+                "Squeak",
+                "Panhandle"
+            ]
+        ]
+    }
+}
