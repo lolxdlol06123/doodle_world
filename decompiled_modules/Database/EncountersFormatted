@@ -1,0 +1,135 @@
+============= ROUTE_1 =============
+WildGrass:
+    Bunsweet: 3/10 (30%)
+    Rosebug: 4/10 (40%)
+    Borbo: 3/10 (30%)
+============= 006_ROUTE2 =============
+WildGrass:
+    Bunsweet: 3/8 (38%)
+    Plipo: 1/8 (13%)
+    Nibblen: 4/8 (50%)
+============= 007_LAKEWOOD =============
+Lake:
+    Tadappole: 98/100 (98%)
+    Moss: 2/100 (2%)
+============= 011_SEWER =============
+Sewer:
+    Geckgoo: 50/115 (43%)
+    Riffrat: 43/115 (37%)
+    Slibble: 15/115 (13%)
+    Klydaskunk: 5/115 (4%)
+    Mold: 2/115 (2%)
+============= 010_ROUTE3 =============
+WildGrass:
+    Rosebug: 10/46 (22%)
+    Borbo: 10/46 (22%)
+    Nibblen: 10/46 (22%)
+    Larvennae: 10/46 (22%)
+    Flittum: 5/46 (11%)
+    Yagoat: 1/46 (2%)
+============= 013_ROUTE4 =============
+WildGrass:
+    Wiglet: 30/98 (31%)
+    Rosebug: 20/98 (20%)
+    Larvennae: 20/98 (20%)
+    Roscoon: 10/98 (10%)
+    Webennae: 10/98 (10%)
+    Archuma: 5/98 (5%)
+    Leapo: 3/98 (3%)
+============= 014_GRAPHITELODGE =============
+WildGrass:
+    Wiglet: 30/91 (33%)
+    Rosebug: 20/91 (22%)
+    Larvennae: 20/91 (22%)
+    Roscoon: 10/91 (11%)
+    Webennae: 10/91 (11%)
+    Wisp: 1/91 (1%)
+============= 017_CROSSROADS =============
+WildGrass:
+    Wiglet: 30/86 (35%)
+    Borbo: 20/86 (23%)
+    Pebblett: 20/86 (23%)
+    Borbek: 10/86 (12%)
+    Springling: 5/86 (6%)
+    Glimmew: 1/86 (1%)
+============= 018_CRYSTALCAVERNS =============
+WildGrass:
+    Pebblett: 40/127 (31%)
+    Snobat: 40/127 (31%)
+    Crystik: 30/127 (24%)
+    Squelly: 10/127 (8%)
+    Gemin: 5/127 (4%)
+    Squed: 2/127 (2%)
+CaveWater:
+    Muttish: 40/125 (32%)
+    Snobat: 40/125 (32%)
+    Crystik: 30/125 (24%)
+    Squelly: 10/125 (8%)
+    Gemin: 3/125 (2%)
+    Squed: 2/125 (2%)
+============= 020_GRAPHITEFOREST =============
+WildGrass:
+    Nibblen: 30/112 (27%)
+    Toxipupa: 15/112 (13%)
+    Glummish: 2/112 (2%)
+    Borbo: 30/112 (27%)
+    Borbek: 10/112 (9%)
+    Tortles: 10/112 (9%)
+    Faunsprout: 15/112 (13%)
+============= 022_FORESTMAZE =============
+WildGrass:
+    Faunsprout: 30/62 (48%)
+    Toxipupa: 15/62 (24%)
+    Statikeet: 10/62 (16%)
+    Appluff: 5/62 (8%)
+    Partybug: 2/62 (3%)
+============= 024_ROUTE5 =============
+WildGrass:
+    Wiglet: 30/63 (48%)
+    Appluff: 15/63 (24%)
+    Cocosquid: 15/63 (24%)
+    Aspark: 3/63 (5%)
+CoveGrass:
+    Cocosquid: 70/110 (64%)
+    Squelly: 30/110 (27%)
+    Kelpie: 8/110 (7%)
+    Apurrition: 2/110 (2%)
+WaterGrass:
+    Cocosquid: 60/82 (73%)
+    Angerler: 20/82 (24%)
+    Schiwi: 2/82 (2%)
+============= 025_SWEETSVILLE =============
+WildGrass:
+    Wiglet: 40/107 (37%)
+    Maskrow: 20/107 (19%)
+    Riffrat: 20/107 (19%)
+    Grimsugar: 15/107 (14%)
+    Dramask: 10/107 (9%)
+    Ruffire: 2/107 (2%)
+============= 031_CANDYFACTORY =============
+WildGrass:
+    Bunsweet: 40/177 (23%)
+    Grimsugar: 35/177 (20%)
+    Shmellow: 30/177 (17%)
+    Appluff: 30/177 (17%)
+    Muncheez: 25/177 (14%)
+    Heatza: 10/177 (6%)
+    Bunswirl: 5/177 (3%)
+    Calamander: 2/177 (1%)
+============= 032_ROUTE6 =============
+WildGrass:
+    Bunsweet: 40/107 (37%)
+    Squelly: 30/107 (28%)
+    Wiglet: 20/107 (19%)
+    Partybug: 10/107 (9%)
+    Aspark: 5/107 (5%)
+    Eftue: 2/107 (2%)
+============= 030_CHEFSVALLEY =============
+WildGrass:
+    Bunsweet: 40/112 (36%)
+    Blossafaun: 30/112 (27%)
+    Tortles: 20/112 (18%)
+    Elektiel: 10/112 (9%)
+    Glummish: 5/112 (4%)
+    Bunswirl: 5/112 (4%)
+    Indigoo: 2/112 (2%)
