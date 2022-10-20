@@ -1,0 +1,3051 @@
+{
+    "Battles":[
+        {
+            "BattleScene":"GenericIndoors",
+            "Class":"DoodleCo",
+            "Party":[
+                {
+                    "Ability":"Rejuvenator",
+                    "Moves":[
+                        "Harden"
+                    ],
+                    "Level":2,
+                    "Name":"Tortles"
+                }
+            ],
+            "Name":"Professor",
+            "Cash":250,
+            "LoseBattle":[
+                "I don't know how you lost to me."
+            ],
+            "Model":"DoodleRep",
+            "WinBattle":[
+                "You certainly picked a strong Doodle!"
+            ]
+        },
+        {
+            "BattleScene":"GenericIndoors",
+            "Class":"Rich Boy",
+            "Party":[
+                {
+                    "Ability":"Molt",
+                    "Moves":[
+                        "Smack",
+                        "Scrutinize"
+                    ],
+                    "Level":4,
+                    "Name":"Shelldo"
+                }
+            ],
+            "Name":"Quincy",
+            "Cash":1500,
+            "LoseBattle":[
+                "Haha! Your doodle is mine."
+            ],
+            "WinBattle":[
+                "...my special doodle lost? Impossible..."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Shinobi",
+            "Party":[
+                {
+                    "Name":"Kitsen",
+                    "Stars":2,
+                    "Ability":"Premonition",
+                    "Moves":[
+                        "Boo!",
+                        "Mind Power",
+                        "Befuddlement"
+                    ],
+                    "Level":7
+                }
+            ],
+            "Name":"\"Inari\"",
+            "Cash":100,
+            "LoseBattle":[
+                "Now you have to keep this a secret!"
+            ],
+            "WinBattle":[
+                "W-w-wait!"
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Nibblen",
+                    "Level":2
+                },
+                {
+                    "Name":"Rosebug",
+                    "Level":2
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "Did you know you can capture wild Doodles by using capsules on them? I got mine that way!"
+            ],
+            "WinBattle":[
+                "You're pretty strong!"
+            ],
+            "Name":"Johhny",
+            "Song":"",
+            "LoseBattle":[
+                "I win, let's go!"
+            ],
+            "BeatenInteract":[
+                "That was a courtesy win!"
+            ],
+            "Cash":250
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Bunsweet",
+                    "Level":3
+                }
+            ],
+            "Class":"Lass",
+            "Interact":[
+                "Are your Doodles hurt? There's a Doodle Doctor near us that can heal your Doodles!"
+            ],
+            "WinBattle":[
+                "My daddy will buy me a better doodle when I get older!"
+            ],
+            "Name":"Rachel",
+            "Music":"DefaultTrainer",
+            "BeatenInteract":[
+                "My daddy will buy me a better doodle when I get older!"
+            ],
+            "LoseBattle":[
+                "Thanks for the powerful Doodle, Dad!"
+            ],
+            "Cash":400
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Toxipupa",
+                    "Level":2
+                },
+                {
+                    "Name":"Borbo",
+                    "Level":3
+                }
+            ],
+            "Class":"Crusher",
+            "Interact":[
+                "I take pride in beating new tamers!"
+            ],
+            "WinBattle":[
+                "...I lost to a rookie..."
+            ],
+            "Name":"Brandon",
+            "LoseBattle":[
+                "Another rookie crushed!"
+            ],
+            "BeatenInteract":[
+                "I lost to you! What has happened to my skill?"
+            ],
+            "Cash":600
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Glimmew",
+                    "Level":4
+                }
+            ],
+            "Class":"Cool Teen",
+            "Interact":[
+                "'Sup, kid? I can't let you pass!"
+            ],
+            "WinBattle":[
+                "You pass the test!"
+            ],
+            "Name":"Beckett",
+            "LoseBattle":[
+                "Get stronger."
+            ],
+            "BeatenInteract":[
+                "Carry on."
+            ],
+            "Cash":800
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Squed",
+                    "Level":2
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "My goal is to climb all the mountains in the world!!"
+            ],
+            "WinBattle":[
+                "Looks like you are a mountain I can't climb!"
+            ],
+            "Name":"Miles",
+            "LoseBattle":[
+                "I'm ready to climb Grizzly Peak!"
+            ],
+            "BeatenInteract":[
+                "I won't be able to climb Grizzly Peak if I don't get stronger."
+            ],
+            "Cash":800
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Borbo",
+                    "Level":3
+                },
+                {
+                    "Name":"Plipo",
+                    "Level":3
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "We're almost at the end of this route. Let's get a quick battle in!"
+            ],
+            "WinBattle":[
+                "Meh..."
+            ],
+            "Name":"Bobby",
+            "LoseBattle":[
+                "I win, let's go!"
+            ],
+            "BeatenInteract":[
+                "Meh..."
+            ],
+            "Cash":750
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Ruffire",
+                    "Level":3
+                }
+            ],
+            "Class":"Businessman",
+            "Interact":[
+                "Do you know your way around? I'm lost!"
+            ],
+            "WinBattle":[
+                "...I'm going to get fired..."
+            ],
+            "Name":"Douglas",
+            "LoseBattle":[
+                "My boss won't fire me!"
+            ],
+            "BeatenInteract":[
+                "...I'm going to get fired..."
+            ],
+            "Cash":1250
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Needling",
+                    "Level":3
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "Look at this Doodle that you've probably never seen before!"
+            ],
+            "WinBattle":[
+                "Drats, I lost!"
+            ],
+            "Name":"Billy",
+            "LoseBattle":[
+                "Were you surprised by my Doodle?"
+            ],
+            "BeatenInteract":[
+                "I got my Needling at a desert!"
+            ],
+            "Cash":500
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Moves":[
+                        "Smack"
+                    ],
+                    "Level":2,
+                    "Name":"Tortles"
+                },
+                {
+                    "Moves":[
+                        "Smack"
+                    ],
+                    "Level":2,
+                    "Name":"Tortles"
+                }
+            ],
+            "Class":"Lass",
+            "Interact":[
+                "Boo! Did I scare you?!"
+            ],
+            "WinBattle":[
+                "My scare tactic didn't work!"
+            ],
+            "Name":"Alyssa",
+            "LoseBattle":[
+                "You were too scared to fight at your full potential."
+            ],
+            "BeatenInteract":[
+                "My tactic didn't work on you this time, but it will work next time!"
+            ],
+            "Cash":600
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Roscoon",
+                    "Level":3
+                },
+                {
+                    "Name":"Partybug",
+                    "Level":3
+                },
+                {
+                    "Name":"Plipo",
+                    "Level":3
+                }
+            ],
+            "Class":"Monk",
+            "Interact":[
+                "Calm and collected. Get ready to fight!"
+            ],
+            "WinBattle":[
+                "I am at peace with this loss."
+            ],
+            "Name":"Girish",
+            "LoseBattle":[
+                "My mind as calm as still water."
+            ],
+            "BeatenInteract":[
+                "I am at peace with my loss."
+            ],
+            "Cash":750
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Rosebug",
+                    "Level":2
+                },
+                {
+                    "Name":"Roscoon",
+                    "Level":3
+                },
+                {
+                    "Name":"Nibblen",
+                    "Level":3
+                },
+                {
+                    "Name":"Toxipupa",
+                    "Level":4
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "I want to be an insect-type tamer!"
+            ],
+            "WinBattle":[
+                "Maybe insect-types aren't the strongest..."
+            ],
+            "Name":"Ryan",
+            "LoseBattle":[
+                "Insect-types are strong!"
+            ],
+            "BeatenInteract":[
+                "Maybe insect-types aren't the strongest..."
+            ],
+            "Cash":650
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Triplet",
+            "Party":[
+                {
+                    "Name":"Rosebug",
+                    "Level":7
+                },
+                {
+                    "Name":"Agotoad",
+                    "Level":7
+                }
+            ],
+            "Name":"Rouge",
+            "Cash":600,
+            "LoseBattle":[
+                "Another win for the triplets."
+            ],
+            "WinBattle":[
+                "You're going to lose to Bleu, I can feel it."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Triplet",
+            "Party":[
+                {
+                    "Name":"Larvennae",
+                    "Level":8
+                },
+                {
+                    "Name":"Muttish",
+                    "Level":8
+                }
+            ],
+            "Name":"Bleu",
+            "Cash":1000,
+            "LoseBattle":[
+                "I-I-I won...?"
+            ],
+            "WinBattle":[
+                "Noooooo!"
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Triplet",
+            "Party":[
+                {
+                    "Name":"Nibblen",
+                    "Level":8
+                },
+                {
+                    "Name":"Rosebug",
+                    "Level":8
+                },
+                {
+                    "Name":"Larvennae",
+                    "Level":8
+                },
+                {
+                    "Name":"Borbo",
+                    "Level":8
+                }
+            ],
+            "Name":"Noir",
+            "Cash":2000,
+            "LoseBattle":[
+                "Predictable."
+            ],
+            "WinBattle":[
+                "The chest is yours."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Kid",
+            "Party":[
+                {
+                    "Name":"Rosebug",
+                    "Level":2
+                },
+                {
+                    "Name":"Rosebug",
+                    "Level":2
+                }
+            ],
+            "Name":"Vert",
+            "Cash":400,
+            "LoseBattle":[
+                "Yes!!! I can finally join the triplets!!!"
+            ],
+            "WinBattle":[
+                "I guess I will never be able to join the triplets, huh..."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Glimmew",
+                    "Level":9
+                },
+                {
+                    "Name":"Skrappey",
+                    "Level":9
+                }
+            ],
+            "Class":"Cool Teen",
+            "Interact":[
+                "I can't get to Route 4 because the roads are blocked! Let's pass the time by battling!"
+            ],
+            "WinBattle":[
+                "I can't really complain about these results..."
+            ],
+            "Name":"Flynn",
+            "LoseBattle":[
+                "Haha, good battle."
+            ],
+            "BeatenInteract":[
+                "DoodleCo sure is a great company..."
+            ],
+            "Cash":850
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Moves":[
+                        "Disarm",
+                        "Spirit Orb"
+                    ],
+                    "Level":10,
+                    "Name":"Wydling"
+                }
+            ],
+            "Class":"Beauty",
+            "Interact":[
+                "Look at my Doodle, isn't it incredibly sweet?"
+            ],
+            "WinBattle":[
+                "I can't really complain about these results..."
+            ],
+            "Name":"Sarah",
+            "LoseBattle":[
+                "Haha, good battle."
+            ],
+            "BeatenInteract":[
+                "..."
+            ],
+            "Cash":1000
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Roscoon",
+                    "Level":9
+                },
+                {
+                    "Name":"Toxipupa",
+                    "Level":9
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "I will only do double battles! Get ready!"
+            ],
+            "WinBattle":[
+                "My strategy didn't work..."
+            ],
+            "Name":"Dubley",
+            "BeatenInteract":[
+                "My strategy didn't work..."
+            ],
+            "Cash":800,
+            "Format":"Doubles",
+            "LoseBattle":[
+                "Yes!!! Another doubles win!"
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Borbo",
+                    "Level":9
+                },
+                {
+                    "Name":"Vipember",
+                    "Level":9
+                }
+            ],
+            "Class":"Businessman",
+            "Interact":[
+                "Time is money, kid. I've made over $3,500 during this conversaion!"
+            ],
+            "WinBattle":[
+                "At least I still have my money..."
+            ],
+            "Name":"Barney",
+            "LoseBattle":[
+                "Just made some more money!"
+            ],
+            "BeatenInteract":[
+                "At least I still have my money..."
+            ],
+            "Cash":3500
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Pebblett",
+                    "Level":9
+                },
+                {
+                    "Name":"Pupskey",
+                    "Level":9
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "Hiking!"
+            ],
+            "WinBattle":[
+                "Hiking!"
+            ],
+            "Name":"Axel",
+            "LoseBattle":[
+                "Hiking!"
+            ],
+            "BeatenInteract":[
+                "Hiking!"
+            ],
+            "Cash":1500
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Wiglet",
+                    "Level":9
+                },
+                {
+                    "Name":"Tabbolt",
+                    "Level":9
+                }
+            ],
+            "Class":"Monk",
+            "Interact":[
+                "I can't believe my parents named me this..."
+            ],
+            "WinBattle":[
+                "My parents knew I would lose my hair..."
+            ],
+            "Name":"Baldy",
+            "LoseBattle":[
+                "I won, but I'm still bald, so am I really a winner?"
+            ],
+            "BeatenInteract":[
+                "My parents knew I would lose my hair..."
+            ],
+            "Cash":2000
+        },
+        {
+            "BattleScene":"Sewer",
+            "Class":"Lackey",
+            "Party":[
+                {
+                    "Star":4,
+                    "Ability":"Careless",
+                    "Level":11,
+                    "Name":"Partybug"
+                },
+                {
+                    "Star":4,
+                    "Moves":[
+                        "Bite",
+                        "Firebolt",
+                        "Howl"
+                    ],
+                    "Level":12,
+                    "Name":"Ruffire"
+                }
+            ],
+            "Name":"Number 3",
+            "Music":"RiffraffTheme",
+            "WinBattle":[
+                "Argh..."
+            ],
+            "Cash":1200,
+            "LoseBattle":[
+                "I'm telling you, he wasn't kidnapped!"
+            ]
+        },
+        {
+            "BattleScene":"GenericIndoors",
+            "Class":"Mister",
+            "Party":[
+                {
+                    "Moves":[
+                        "Swipe",
+                        "Scrutinize",
+                        "Heckle"
+                    ],
+                    "Level":11,
+                    "Nickname":"Number Four",
+                    "Ability":"Premonition",
+                    "Star":5,
+                    "Name":"Riffrat",
+                    "Gender":"M",
+                    "Shiny":true
+                },
+                {
+                    "Name":"Partybug",
+                    "Stars":4,
+                    "Ability":"Careless",
+                    "Gender":"M",
+                    "Level":12
+                },
+                {
+                    "Name":"Dramask",
+                    "Stars":4,
+                    "Ability":"Whimsical",
+                    "Gender":"M",
+                    "Moves":[
+                        "Spirit Orb",
+                        "Smack",
+                        "Whisper",
+                        "Flare"
+                    ],
+                    "Level":13
+                }
+            ],
+            "Name":"Riffraff",
+            "Music":"RiffraffTheme",
+            "WinBattle":[
+                "Looks like my fun is over for now."
+            ],
+            "Cash":2000,
+            "LoseBattle":[
+                "You're not too bad of a battler."
+            ]
+        },
+        {
+            "BattleScene":"Route4",
+            "Class":"Fan Club President",
+            "Party":[
+                {
+                    "Name":"Squed",
+                    "Ability":"Durable",
+                    "Star":5,
+                    "Gender":"F",
+                    "Moves":[
+                        "Pebble",
+                        "Trap",
+                        "Headbutt"
+                    ],
+                    "Level":12
+                },
+                {
+                    "Name":"Borbek",
+                    "Stars":4,
+                    "Ability":"Pecking Order",
+                    "Gender":"F",
+                    "Level":13
+                },
+                {
+                    "Name":"Glummish",
+                    "Stars":4,
+                    "Ability":"Gloomy",
+                    "Gender":"F",
+                    "Moves":[
+                        "Sad Zone",
+                        "Shadowbolt",
+                        "Sleep Spores",
+                        "Plant Sap"
+                    ],
+                    "Level":15
+                }
+            ],
+            "Name":"Portia",
+            "Music":"Portia",
+            "WinBattle":[
+                "My other Doodles were confiscated..."
+            ],
+            "Cash":1500,
+            "LoseBattle":[
+                "Why didn't you give your Doodle to Quincy?"
+            ]
+        },
+        {
+            "BattleScene":"Route4",
+            "Party":[
+                {
+                    "Name":"Snobat",
+                    "Level":13
+                },
+                {
+                    "Name":"Moss",
+                    "Level":13
+                }
+            ],
+            "Class":"Cool Teen",
+            "Interact":[
+                "It's time to b-b-b-battle!"
+            ],
+            "WinBattle":[
+                "Wow!"
+            ],
+            "Name":"Bradley",
+            "LoseBattle":[
+                "Mind crush!"
+            ],
+            "BeatenInteract":[
+                "Meh."
+            ],
+            "Cash":1000
+        },
+        {
+            "BattleScene":"Route4",
+            "Party":[
+                {
+                    "Name":"Riffrat",
+                    "Level":12
+                },
+                {
+                    "Name":"Klydaskunk",
+                    "Level":12
+                },
+                {
+                    "Name":"Mold",
+                    "Level":12
+                }
+            ],
+            "Class":"Beauty",
+            "Interact":[
+                "Aren't my Doodles cute?!"
+            ],
+            "WinBattle":[
+                "I went sewer-hunting for these..."
+            ],
+            "Name":"Alice",
+            "LoseBattle":[
+                "My doodles are cute AND powerful!"
+            ],
+            "BeatenInteract":[
+                "I went sewer-hunting for these..."
+            ],
+            "Cash":800
+        },
+        {
+            "BattleScene":"Route4",
+            "Party":[
+                {
+                    "Name":"Boulduo",
+                    "Level":15
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "Why did it start raining all of a sudden?"
+            ],
+            "WinBattle":[
+                "If it wasn't raining, I would've won!"
+            ],
+            "Name":"Smith",
+            "LoseBattle":[
+                "I won, despite it raining!"
+            ],
+            "BeatenInteract":[
+                "If it wasn't raining, I would've won!"
+            ],
+            "Cash":1250
+        },
+        {
+            "BattleScene":"Route4",
+            "Party":[
+                {
+                    "Name":"Roscoon",
+                    "Level":12
+                },
+                {
+                    "Name":"Webennae",
+                    "Level":12
+                },
+                {
+                    "Name":"Toxipupa",
+                    "Level":12
+                },
+                {
+                    "Name":"Thornet",
+                    "Level":13
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "I'm trying to perfect my Doubles strategy!"
+            ],
+            "WinBattle":[
+                "My strategy is still a work in progress."
+            ],
+            "Name":"Timmy",
+            "BeatenInteract":[
+                "My strategy is still a work in progress."
+            ],
+            "Cash":1250,
+            "Format":"Doubles",
+            "LoseBattle":[
+                "Did I stumble across the perfect strategy?"
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "WinBattle":[
+                "Pete: Our perfect teamwork was... countered?"
+            ],
+            "Party":[
+                {
+                    "Name":"Moss",
+                    "Star":3,
+                    "Ability":"Tangled",
+                    "Moves":[
+                        "Waterbolt",
+                        "Leaf Sap"
+                    ],
+                    "Level":11
+                },
+                {
+                    "Name":"Muttish",
+                    "Star":3,
+                    "Ability":"Storm Surge",
+                    "Moves":[
+                        "Bite",
+                        "Waterbolt"
+                    ],
+                    "Level":13
+                },
+                {
+                    "Name":"Tadappole",
+                    "Star":3,
+                    "Ability":"Sickly Sweet",
+                    "Moves":[
+                        "Bullet Corn",
+                        "Rust"
+                    ],
+                    "Level":12
+                },
+                {
+                    "Name":"Lilbulb",
+                    "Star":3,
+                    "Ability":"Electrocute",
+                    "Moves":[
+                        "Shock",
+                        "Laser"
+                    ],
+                    "Level":12
+                }
+            ],
+            "Class":"Hooligans",
+            "Name":"Ben and Pete",
+            "LoseBattle":[
+                "Ben: We did it, Pete!"
+            ],
+            "Cash":2000,
+            "Format":"Doubles",
+            "Music":"Pvptheme"
+        },
+        {
+            "BattleScene":"Route4",
+            "Class":"Hooligan",
+            "Party":[
+                {
+                    "Name":"Snobat",
+                    "Ability":"Concentrated",
+                    "Star":5,
+                    "Gender":"F",
+                    "Moves":[
+                        "Tempest",
+                        "Jet Strike",
+                        "Snowball"
+                    ],
+                    "Level":12
+                },
+                {
+                    "Name":"Wiglet",
+                    "Ability":"Routine",
+                    "Star":3,
+                    "Gender":"M",
+                    "Moves":[
+                        "Headbutt"
+                    ],
+                    "Level":13
+                },
+                {
+                    "Name":"Agotoad",
+                    "Ability":"Steam Guard",
+                    "Star":3,
+                    "Gender":"M",
+                    "Moves":[
+                        "Firebolt",
+                        "Mud Spit",
+                        "Croak"
+                    ],
+                    "Level":15
+                },
+                {
+                    "Name":"Ruffire",
+                    "Ability":"Savage",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Bite",
+                        "Howl",
+                        "Firebolt"
+                    ],
+                    "Level":16
+                }
+            ],
+            "Name":"Carson",
+            "Cash":1500,
+            "LoseBattle":[
+                "I told you so."
+            ],
+            "WinBattle":[
+                "..."
+            ]
+        },
+        {
+            "BattleScene":"Route4",
+            "Class":"Wayfarer",
+            "Party":[
+                {
+                    "Name":"Partybug",
+                    "Ability":"Spell Shield",
+                    "Star":6,
+                    "Gender":"F",
+                    "Moves":[
+                        "Magical Shield",
+                        "Mind Power",
+                        "Bite"
+                    ],
+                    "Level":16
+                },
+                {
+                    "Name":"Kowosu",
+                    "Ability":"Stabby Stabby",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Sword Sweep"
+                    ],
+                    "Level":17
+                },
+                {
+                    "Name":"Blossafaun",
+                    "Ability":"Pollen Armor",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Sleep Spores",
+                        "Entangling Vines",
+                        "Parasitic Seeds",
+                        "Leaf Sap"
+                    ],
+                    "Level":18
+                },
+                {
+                    "Name":"Snobat",
+                    "Ability":"Concentrated",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Tempest",
+                        "Jet Strike",
+                        "Snowball"
+                    ],
+                    "Level":19
+                },
+                {
+                    "Name":"Pompaboar",
+                    "Ability":"Menacing Snarl",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Headbutt",
+                        "Retribution"
+                    ],
+                    "Level":20
+                },
+                {
+                    "Name":"Marigrimm",
+                    "Ability":"Serenade",
+                    "Star":6,
+                    "Gender":"M",
+                    "Moves":[
+                        "Siren Song",
+                        "Spirit Orb",
+                        "Harmony"
+                    ],
+                    "Level":21
+                }
+            ],
+            "Name":"Jack",
+            "Cash":2500,
+            "LoseBattle":[
+                "...You aren't quite on my level yet."
+            ],
+            "WinBattle":[
+                "Finally!"
+            ]
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Name":"Glimmew",
+                    "Level":14
+                },
+                {
+                    "Name":"Glowcat",
+                    "Level":15
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "Hello!"
+            ],
+            "WinBattle":[
+                "...Goodbye..."
+            ],
+            "Name":"Rodney",
+            "LoseBattle":[
+                "Goodbye!"
+            ],
+            "BeatenInteract":[
+                "Bye..."
+            ],
+            "Cash":1650
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Name":"Agotoad",
+                    "Level":14
+                },
+                {
+                    "Name":"Agotoad",
+                    "Level":14
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "I love my Agotoads!"
+            ],
+            "WinBattle":[
+                "How did my Agotoads lose?"
+            ],
+            "Name":"Adam",
+            "LoseBattle":[
+                "My Agotoads are the best!"
+            ],
+            "BeatenInteract":[
+                "Even though I lost, I still love my Agotoads!"
+            ],
+            "Cash":2000
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Ability":"Balloon Pop",
+                    "Level":10,
+                    "Name":"Louis"
+                },
+                {
+                    "Ability":"Balloon Pop",
+                    "Level":12,
+                    "Name":"Louis"
+                },
+                {
+                    "Name":"Louis",
+                    "Level":14
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "Have you ever considered the superiority of Louis?"
+            ],
+            "WinBattle":[
+                "Louis is still the supreme form of all Doodles."
+            ],
+            "Name":"Tom",
+            "LoseBattle":[
+                "Are you convinced?"
+            ],
+            "BeatenInteract":[
+                "Louis is still the supreme form of all Doodles."
+            ],
+            "Cash":2500
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Name":"Kitsen",
+                    "Level":16
+                },
+                {
+                    "Name":"Ruffire",
+                    "Level":16
+                }
+            ],
+            "Class":"Businesswoman",
+            "Interact":[
+                "I'm not really a battler, but I'll fight you!"
+            ],
+            "WinBattle":[
+                "I need practice."
+            ],
+            "Name":"Jane",
+            "LoseBattle":[
+                "Maybe... I have potential?"
+            ],
+            "BeatenInteract":[
+                "I need practice."
+            ],
+            "Cash":3200
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Name":"Wiglet",
+                    "Level":20
+                },
+                {
+                    "Name":"Schiwi",
+                    "Level":20
+                },
+                {
+                    "Name":"Lilbulb",
+                    "Level":20
+                },
+                {
+                    "Name":"Twigon",
+                    "Level":20
+                }
+            ],
+            "Class":"Rebattler",
+            "Interact":[
+                "..."
+            ],
+            "WinBattle":[
+                "..."
+            ],
+            "Rebattle":true,
+            "Name":"Riley",
+            "BeatenInteract":[
+                "..."
+            ],
+            "Music":"Battlefield4",
+            "LoseBattle":[
+                "..."
+            ],
+            "Cash":750
+        },
+        {
+            "BattleScene":"Crossroads",
+            "Party":[
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                },
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                },
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                },
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                },
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                },
+                {
+                    "Name":"Maelzuri",
+                    "Level":10000
+                }
+            ],
+            "Class":"Lol",
+            "Interact":[
+                "..."
+            ],
+            "WinBattle":[
+                "..."
+            ],
+            "Rebattle":true,
+            "Name":"Wow",
+            "BeatenInteract":[
+                "..."
+            ],
+            "Music":"Battlefield4",
+            "LoseBattle":[
+                "..."
+            ],
+            "Cash":0
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Class":"Bandit",
+            "Party":[
+                {
+                    "Ability":"Nitelite",
+                    "Moves":[
+                        "Crystal Wall",
+                        "Quick Strike",
+                        "Subterfuge"
+                    ],
+                    "Level":17,
+                    "Name":"Glowcat"
+                },
+                {
+                    "Ability":"Slash Expert",
+                    "Moves":[
+                        "Dark Slash",
+                        "Sharpen",
+                        "Subterfuge"
+                    ],
+                    "Level":18,
+                    "Name":"Shadark"
+                },
+                {
+                    "Ability":"Guilt",
+                    "Moves":[
+                        "Aurora Flash",
+                        "Snowball",
+                        "Gem Blast"
+                    ],
+                    "Level":19,
+                    "Name":"Kidere"
+                }
+            ],
+            "Name":"Craig",
+            "Music":"MoonlightBattle",
+            "WinBattle":[
+                "...all my planning... all my work... foiled by one outsider?"
+            ],
+            "Cash":7500,
+            "LoseBattle":[
+                "Goodbye, forever."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Tamer",
+            "Party":[
+                {
+                    "Ability":"Storm Surge",
+                    "Moves":[
+                        "Waterbolt",
+                        "Leaf Sap",
+                        "Agitate"
+                    ],
+                    "Level":16,
+                    "Name":"Moss"
+                },
+                {
+                    "Ability":"Storm Surge",
+                    "Moves":[
+                        "Needle Spike",
+                        "Earth Lance",
+                        "Parasitic Seeds"
+                    ],
+                    "Level":17,
+                    "Name":"Cacmeow"
+                },
+                {
+                    "Ability":"Unbreakable",
+                    "Moves":[
+                        "Mind Drain",
+                        "Gem Blast",
+                        "Sad Zone"
+                    ],
+                    "Level":18,
+                    "Name":"Kibara"
+                }
+            ],
+            "Name":"Cassidy",
+            "Music":"Pvptheme",
+            "WinBattle":[
+                "I expected this battle to end this way."
+            ],
+            "Cash":4000,
+            "LoseBattle":[
+                "Kinda unexpected, to be honest."
+            ]
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Party":[
+                {
+                    "Name":"Gemin",
+                    "Level":17
+                },
+                {
+                    "Name":"Gemin",
+                    "Level":17
+                }
+            ],
+            "Class":"Businesswoman",
+            "Interact":[
+                "My Doodles have a special way to evolve."
+            ],
+            "WinBattle":[
+                "If I figured out how to evolve my Doodles, I would've won!"
+            ],
+            "Name":"Alexis",
+            "LoseBattle":[
+                "I know Gemin needs the Swag Juice equipment... but what else?"
+            ],
+            "BeatenInteract":[
+                "I know it needs the Swag Juice equipment... but what else?"
+            ],
+            "Cash":1800
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Party":[
+                {
+                    "Name":"Crystik",
+                    "Level":17
+                },
+                {
+                    "Name":"Muttish",
+                    "Level":17
+                },
+                {
+                    "Ability":"Arid",
+                    "Level":17,
+                    "Name":"Needling"
+                }
+            ],
+            "Class":"Kid",
+            "Interact":[
+                "Grinding my chain out here!"
+            ],
+            "WinBattle":[
+                "Wow..."
+            ],
+            "Name":"Willy",
+            "LoseBattle":[
+                "My grinding paid off."
+            ],
+            "BeatenInteract":[
+                "Grinding my chain out here!"
+            ],
+            "Cash":1550
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Party":[
+                {
+                    "Name":"Gummelia",
+                    "Level":18
+                },
+                {
+                    "Name":"Grimeleon",
+                    "Level":18
+                }
+            ],
+            "Class":"Monk",
+            "Interact":[
+                "Crystal Caverns is the perfect training ground!"
+            ],
+            "WinBattle":[
+                "Clearly, still have a long way to go."
+            ],
+            "Name":"Igleo",
+            "LoseBattle":[
+                "I wonder if this is my peak."
+            ],
+            "BeatenInteract":[
+                "Still have a long way to go."
+            ],
+            "Cash":1300
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Party":[
+                {
+                    "Name":"Dramask",
+                    "Level":19
+                },
+                {
+                    "Name":"Dramask",
+                    "Level":19
+                }
+            ],
+            "Class":"Beauty",
+            "Interact":[
+                "I love my Doodle!"
+            ],
+            "WinBattle":[
+                "I still love my Doodle!"
+            ],
+            "Name":"Kylie",
+            "LoseBattle":[
+                "I love my Doodle!"
+            ],
+            "BeatenInteract":[
+                "I still love my Doodle!"
+            ],
+            "Cash":1300
+        },
+        {
+            "BattleScene":"CrystalCavern",
+            "Class":"Shinobi",
+            "Party":[
+                {
+                    "Name":"Mawthra",
+                    "Equip":{
+                        "Amulet":"6"
+                    },
+                    "Star":5,
+                    "Ability":"Poisonous Skin",
+                    "Moves":[
+                        "Lingering Poison",
+                        "Crush",
+                        "Swarm"
+                    ],
+                    "Level":20
+                },
+                {
+                    "Moves":[
+                        "Flame Rattle",
+                        "Hiss",
+                        "Retribution"
+                    ],
+                    "Level":21,
+                    "HeldItem":"Used Timber",
+                    "Name":"Skorpent",
+                    "Equip":{
+                        "Artifact":"1"
+                    },
+                    "Star":5,
+                    "Ability":"Firewall"
+                },
+                {
+                    "Name":"Grufflin",
+                    "Equip":{
+                        "Artifact":"6"
+                    },
+                    "Star":5,
+                    "Ability":"Caloric Deficit",
+                    "Moves":[
+                        "Sylphid",
+                        "Sugar Kiss",
+                        "Air Strike"
+                    ],
+                    "Level":22
+                },
+                {
+                    "Name":"Squed",
+                    "Equip":{
+                        "Artifact":"7"
+                    },
+                    "Star":5,
+                    "Ability":"Durable",
+                    "Moves":[
+                        "Pebble",
+                        "Headbutt",
+                        "Trap"
+                    ],
+                    "Level":23
+                },
+                {
+                    "Moves":[
+                        "Capsize",
+                        "Screech",
+                        "Headbutt"
+                    ],
+                    "Level":24,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Groato",
+                    "Star":5,
+                    "Ability":"Careless"
+                },
+                {
+                    "Moves":[
+                        "Burning Orb",
+                        "Fiery Bite",
+                        "Harmony",
+                        "Mind Power"
+                    ],
+                    "Level":25,
+                    "HeldItem":"Used Timber",
+                    "Name":"Kitsen",
+                    "Star":5,
+                    "Ability":"Magician"
+                }
+            ],
+            "Name":"\"Inari\"",
+            "Cash":6000,
+            "LoseBattle":[
+                "My training paid off."
+            ],
+            "WinBattle":[
+                "Okay, fine, you can have the orb back."
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Class":"Tamer",
+            "Party":[
+                {
+                    "Moves":[
+                        "Air Strike"
+                    ],
+                    "Level":20,
+                    "HeldItem":"Air Taffy",
+                    "Name":"Wvyarn",
+                    "Star":5,
+                    "Ability":"Stitching"
+                },
+                {
+                    "Moves":[
+                        "Parasitic Seeds",
+                        "Protect",
+                        "Life Sap"
+                    ],
+                    "Level":19,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Needling",
+                    "Star":5,
+                    "Ability":"Arid"
+                },
+                {
+                    "Moves":[
+                        "Taser",
+                        "Shock",
+                        "Air Strike"
+                    ],
+                    "Level":19,
+                    "HeldItem":"Glasses",
+                    "Name":"Elektiel",
+                    "Star":5,
+                    "Ability":"Conductor"
+                },
+                {
+                    "Moves":[
+                        "Pebble",
+                        "Icy Bite",
+                        "Double Bite"
+                    ],
+                    "Level":18,
+                    "HeldItem":"Earth Taffy",
+                    "Name":"Boulduo",
+                    "Tint":[
+                        2,
+                        6,
+                        7
+                    ],
+                    "Ability":"Rugged"
+                }
+            ],
+            "Name":"TJ",
+            "Cash":3000,
+            "LoseBattle":[
+                "I won!"
+            ],
+            "WinBattle":[
+                "This was the only way I could've obtained this key."
+            ]
+        },
+        {
+            "BattleScene":"Temple",
+            "Class":"Rich Boy",
+            "Party":[
+                {
+                    "Name":"Flaskit",
+                    "Star":5,
+                    "Ability":"Crystaline",
+                    "Moves":[
+                        "Roll",
+                        "Crystal Dust"
+                    ],
+                    "Level":17
+                },
+                {
+                    "Star":5,
+                    "Moves":[
+                        "Sharpen",
+                        "Heckle",
+                        "Quick Strike"
+                    ],
+                    "Level":17,
+                    "Name":"Louis"
+                },
+                {
+                    "Ability":"Slash Expert",
+                    "Moves":[
+                        "Dark Slash",
+                        "Sharpen",
+                        "Subterfuge"
+                    ],
+                    "Level":18,
+                    "Name":"Shadark"
+                }
+            ],
+            "Name":"Quincy",
+            "Cash":10000,
+            "LoseBattle":[
+                "Yes! I beat you!"
+            ],
+            "WinBattle":[
+                "..."
+            ]
+        },
+        {
+            "BattleScene":"Temple",
+            "Class":"Hermit",
+            "Party":[
+                {
+                    "Moves":[
+                        "Rainmaker",
+                        "Taser",
+                        "Shock Wave",
+                        "Dark Slash"
+                    ],
+                    "Level":19,
+                    "HeldItem":"Determination Jelly",
+                    "Name":"Aspark",
+                    "Star":5,
+                    "Ability":"Heavy Storms"
+                },
+                {
+                    "Name":"Angerler",
+                    "Star":5,
+                    "Ability":"Bright Lights",
+                    "Moves":[
+                        "Waterbolt",
+                        "Laser"
+                    ],
+                    "Level":19
+                },
+                {
+                    "Moves":[
+                        "Glaze Punch",
+                        "Fast Food"
+                    ],
+                    "Level":18,
+                    "HeldItem":"Food Taffy",
+                    "Name":"Bunswirl",
+                    "Ability":"Restless"
+                },
+                {
+                    "Moves":[
+                        "Taser",
+                        "Shock",
+                        "Air Strike"
+                    ],
+                    "Level":19,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Elektiel",
+                    "Star":5,
+                    "Ability":"Conductor"
+                }
+            ],
+            "Name":"Nimbus",
+            "Cash":4000,
+            "LoseBattle":[
+                "You put up a good fight."
+            ],
+            "WinBattle":[
+                "I've gotten rusty."
+            ]
+        },
+        {
+            "BattleScene":"GraphiteForest",
+            "Party":[
+                {
+                    "Name":"Statikeet",
+                    "Level":17
+                },
+                {
+                    "Name":"Borbek",
+                    "Level":17
+                }
+            ],
+            "Class":"Student",
+            "Interact":[
+                "I'm lost!"
+            ],
+            "WinBattle":[
+                "Can you help find my home?"
+            ],
+            "Name":"Julia",
+            "LoseBattle":[
+                "Can you help find my home?"
+            ],
+            "BeatenInteract":[
+                "I'm lost!"
+            ],
+            "Cash":1600
+        },
+        {
+            "BattleScene":"GraphiteForest",
+            "Party":[
+                {
+                    "Name":"Archuma",
+                    "Level":19
+                }
+            ],
+            "Class":"Student",
+            "Interact":[
+                "Where am I?"
+            ],
+            "WinBattle":[
+                "How did I get here?"
+            ],
+            "Name":"Rob",
+            "LoseBattle":[
+                "...I don't remember."
+            ],
+            "BeatenInteract":[
+                "Where am I?"
+            ],
+            "Cash":1600
+        },
+        {
+            "BattleScene":"GraphiteForest",
+            "Party":[
+                {
+                    "Name":"Pebblett",
+                    "Level":19
+                },
+                {
+                    "Name":"Squed",
+                    "Level":19
+                }
+            ],
+            "Class":"Hiker",
+            "Interact":[
+                "Exploring this land is rewarding!"
+            ],
+            "WinBattle":[
+                "How I lose?"
+            ],
+            "Name":"Oscar",
+            "LoseBattle":[
+                "Lame."
+            ],
+            "BeatenInteract":[
+                "Exploring this land is rewarding!"
+            ],
+            "Cash":1800
+        },
+        {
+            "BattleScene":"GraphiteForest",
+            "Party":[
+                {
+                    "Name":"Shelldo",
+                    "Level":15
+                },
+                {
+                    "Name":"Shelldo",
+                    "Level":15
+                },
+                {
+                    "Name":"Shelldo",
+                    "Level":15
+                },
+                {
+                    "Name":"Shelldo",
+                    "Level":15
+                }
+            ],
+            "Class":"Tourist",
+            "Interact":[
+                "I'm hungry, gotta crack some eggs."
+            ],
+            "WinBattle":[
+                "Wait, those were Shelldo?!"
+            ],
+            "Name":"Alaina",
+            "LoseBattle":[
+                "Wait, those were Shelldo?!"
+            ],
+            "BeatenInteract":[
+                "...still hungry."
+            ],
+            "Cash":1800
+        },
+        {
+            "BattleScene":"GraphiteForest",
+            "Party":[
+                {
+                    "Name":"Gemin",
+                    "Level":15
+                },
+                {
+                    "Name":"Webennae",
+                    "Level":15
+                },
+                {
+                    "Name":"Toxipupa",
+                    "Level":15
+                },
+                {
+                    "Name":"Roscoon",
+                    "Level":15
+                }
+            ],
+            "Class":"Tourist",
+            "Interact":[
+                "The best offense is defense!"
+            ],
+            "WinBattle":[
+                "I guess you need a little bit of offense...'"
+            ],
+            "Name":"Chris",
+            "LoseBattle":[
+                "I told you so!"
+            ],
+            "BeatenInteract":[
+                "I guess you need a little bit of offense..."
+            ],
+            "Cash":1800
+        },
+        {
+            "BattleScene":"Beach",
+            "Party":[
+                {
+                    "Name":"Cocosquid",
+                    "Level":21
+                },
+                {
+                    "Name":"Grufflin",
+                    "Level":22
+                }
+            ],
+            "Class":"Tourist",
+            "Interact":[
+                "Isn't the beach relaxing?"
+            ],
+            "WinBattle":[
+                "At least I'm still at the beach."
+            ],
+            "Name":"Lucy",
+            "LoseBattle":[
+                "Ahh..."
+            ],
+            "BeatenInteract":[
+                "...still hungry."
+            ],
+            "Cash":2200
+        },
+        {
+            "BattleScene":"Beach",
+            "Party":[
+                {
+                    "Name":"Riffrat",
+                    "Level":20
+                },
+                {
+                    "Name":"Henchum",
+                    "Level":23
+                }
+            ],
+            "Class":"Bodybuilder",
+            "Interact":[
+                "Punching sand is fun!"
+            ],
+            "WinBattle":[
+                "I gotta continue punching sand!"
+            ],
+            "Name":"Mac",
+            "LoseBattle":[
+                "My workout paid off!"
+            ],
+            "BeatenInteract":[
+                "I'm getting stronger by punching sand!"
+            ],
+            "Cash":2000
+        },
+        {
+            "BattleScene":"Beach",
+            "Party":[
+                {
+                    "Name":"Muttish",
+                    "Level":23
+                },
+                {
+                    "Name":"Angerler",
+                    "Level":23
+                },
+                {
+                    "Name":"Lilbulb",
+                    "Level":23
+                }
+            ],
+            "Class":"Businesswoman",
+            "Interact":[
+                "This trip was paid by my company!"
+            ],
+            "WinBattle":[
+                "...company expense."
+            ],
+            "Name":"Elaine",
+            "LoseBattle":[
+                "This trip was worth it!"
+            ],
+            "BeatenInteract":[
+                "This trip was a company expense."
+            ],
+            "Cash":5000
+        },
+        {
+            "BattleScene":"Beach",
+            "Party":[
+                {
+                    "Name":"Levilen",
+                    "Level":23
+                },
+                {
+                    "Name":"Elektiel",
+                    "Level":23
+                }
+            ],
+            "Class":"Student",
+            "Interact":[
+                "Just sit right there..."
+            ],
+            "WinBattle":[
+                "Chillin' out, maxin', relaxin', all cool."
+            ],
+            "Name":"Will",
+            "LoseBattle":[
+                "Chillin' out, maxin', relaxin', all cool."
+            ],
+            "BeatenInteract":[
+                "Chillin' out, maxin', relaxin', all cool."
+            ],
+            "Cash":2500
+        },
+        {
+            "BattleScene":"Beach",
+            "Party":[
+                {
+                    "Name":"Spunny",
+                    "Level":22
+                },
+                {
+                    "Name":"Kelpie",
+                    "Level":24
+                }
+            ],
+            "Class":"Student",
+            "Interact":[
+                "Why did my parents name me September?"
+            ],
+            "WinBattle":[
+                "I wasn't even born in September, I was born in March!"
+            ],
+            "Name":"September",
+            "LoseBattle":[
+                "I wasn't even born in September!"
+            ],
+            "BeatenInteract":[
+                "I wasn't even born in September, I was born in March!"
+            ],
+            "Cash":2200
+        },
+        {
+            "BattleScene":"ScaryBeach",
+            "Party":[
+                {
+                    "Name":"Apurrition",
+                    "Level":22
+                },
+                {
+                    "Name":"Archuma",
+                    "Level":22
+                },
+                {
+                    "Name":"Spirice",
+                    "Level":22
+                },
+                {
+                    "Name":"Wydling",
+                    "Level":22
+                }
+            ],
+            "Class":"Tourist",
+            "Interact":[
+                "What is this place?"
+            ],
+            "WinBattle":[
+                "It's too dark. I can't see anything!"
+            ],
+            "Name":"Lucas",
+            "LoseBattle":[
+                "That's nice, I guess..."
+            ],
+            "BeatenInteract":[
+                "I'm so lost...'"
+            ],
+            "Cash":2200
+        },
+        {
+            "BattleScene":"ScaryBeach",
+            "Class":"Ghost",
+            "Party":[
+                {
+                    "Name":"Skadean",
+                    "Skin":3,
+                    "Ability":"Deepfreeze",
+                    "Moves":[
+                        "Rust",
+                        "Cone of Cold",
+                        "Protect",
+                        "Aquagel"
+                    ],
+                    "Level":28,
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    }
+                },
+                {
+                    "Name":"Swoptar",
+                    "Skin":1,
+                    "Ability":"Mark Territory",
+                    "Moves":[
+                        "Iron Slash",
+                        "Sharpen",
+                        "Electro Slash",
+                        "Sharp Claws"
+                    ],
+                    "Level":30,
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    }
+                },
+                {
+                    "Name":"Frigale",
+                    "Skin":4,
+                    "Ability":"Merciless",
+                    "Moves":[
+                        "Sylphid",
+                        "Nose Dive",
+                        "Careless Assault"
+                    ],
+                    "Level":30,
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    }
+                },
+                {
+                    "Name":"Clangutang",
+                    "Skin":3,
+                    "Ability":"Slash Expert",
+                    "Moves":[
+                        "Tri-Elemental Slash",
+                        "Sword Sweep",
+                        "Shatter",
+                        "Sharpen"
+                    ],
+                    "Level":32,
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    }
+                }
+            ],
+            "Name":"Pirate",
+            "Cash":3000,
+            "LoseBattle":[
+                "No... that battle wasn't good enough."
+            ],
+            "WinBattle":[
+                "I have no more regrets. This chest is yours."
+            ]
+        },
+        {
+            "BattleScene":"Sweetsville",
+            "Class":"DoodleTuber",
+            "Party":[
+                {
+                    "Moves":[
+                        "Capsize",
+                        "Belch",
+                        "Screech",
+                        "Headbutt"
+                    ],
+                    "Level":29,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Groato",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Adipose"
+                },
+                {
+                    "Moves":[
+                        "Enlightenment",
+                        "Tsunami",
+                        "Gem Blast"
+                    ],
+                    "Level":30,
+                    "HeldItem":"Pretty Seashell",
+                    "Name":"Octonut",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Cracked"
+                },
+                {
+                    "Moves":[
+                        "Shatter",
+                        "Double Bite",
+                        "Electro Bite",
+                        "Icy Bite"
+                    ],
+                    "Level":31,
+                    "HeldItem":"Lucky Pebble",
+                    "Name":"Boulduo",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Rugged"
+                },
+                {
+                    "Moves":[
+                        "Burning Orb",
+                        "Shatter",
+                        "Fireball",
+                        "Rest"
+                    ],
+                    "Level":32,
+                    "HeldItem":"Water Candy Cube",
+                    "Name":"Magmotode",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Steam Guard"
+                }
+            ],
+            "Name":"Rick",
+            "Cash":5000,
+            "LoseBattle":[
+                "...?"
+            ],
+            "WinBattle":[
+                "Quite strong."
+            ]
+        },
+        {
+            "BattleScene":"Sweetsville",
+            "Class":"Poor",
+            "Party":[
+                {
+                    "Moves":[
+                        "Rainmaker",
+                        "Shock Wave",
+                        "Taser",
+                        "Electrify"
+                    ],
+                    "Level":29,
+                    "HeldItem":"Spark Taffy",
+                    "Name":"Levilen",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Heavy Storms"
+                },
+                {
+                    "Moves":[
+                        "Capsize",
+                        "Bite"
+                    ],
+                    "Level":30,
+                    "HeldItem":"Pretty Seashell",
+                    "Name":"Gomutt",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Storm Surge"
+                },
+                {
+                    "Moves":[
+                        "Taser",
+                        "Thunder Strike",
+                        "Reckless Charge"
+                    ],
+                    "Level":31,
+                    "HeldItem":"Battery",
+                    "Name":"Gowatt",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Electrocute"
+                },
+                {
+                    "Moves":[
+                        "Shock Wave",
+                        "Air Strike",
+                        "Haste"
+                    ],
+                    "Level":32,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Voltatoo",
+                    "Equip":{
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Conductor"
+                }
+            ],
+            "Name":"John",
+            "Cash":100,
+            "LoseBattle":[
+                "...I don't want your candy."
+            ],
+            "WinBattle":[
+                "Fine, I'll accept your candy."
+            ]
+        },
+        {
+            "BattleScene":"Sweetsville",
+            "Class":"Wayfarer",
+            "Party":[
+                {
+                    "Moves":[
+                        "Just Desserts",
+                        "Sylphid",
+                        "Nose Dive"
+                    ],
+                    "Level":31,
+                    "HeldItem":"Sniper Scope",
+                    "Name":"Grufflin",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Bon Appetit"
+                },
+                {
+                    "Moves":[
+                        "Harmony",
+                        "Cake Walk",
+                        "Night Night",
+                        "Food Fight"
+                    ],
+                    "Level":32,
+                    "HeldItem":"Glasses",
+                    "Name":"Somberock",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Gloomy"
+                },
+                {
+                    "Moves":[
+                        "Chemical Breath",
+                        "Alloy Missiles",
+                        "Crystal Wall"
+                    ],
+                    "Level":33,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Endovul",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Deepfreeze"
+                },
+                {
+                    "Moves":[
+                        "Psychoforce",
+                        "Food Fight",
+                        "Vague Vortex"
+                    ],
+                    "Level":34,
+                    "HeldItem":"Spirit Taffy",
+                    "Name":"Djinneko",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Wish For Power"
+                },
+                {
+                    "Moves":[
+                        "Fireball",
+                        "Psychoforce",
+                        "Enlightenment"
+                    ],
+                    "Level":35,
+                    "HeldItem":"Water Candy Cube",
+                    "Name":"Vixalor",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Magician"
+                },
+                {
+                    "Moves":[
+                        "Siren Song",
+                        "Vague Vortex",
+                        "Harmony",
+                        "Soulfire"
+                    ],
+                    "Level":36,
+                    "HeldItem":"Pretty Seashell",
+                    "Name":"Marigrimm",
+                    "Equip":{
+                        "Helmet":"9",
+                        "Artifact":"9",
+                        "Amulet":"8"
+                    },
+                    "Star":5,
+                    "Ability":"Serenade"
+                }
+            ],
+            "Name":"Jack",
+            "Cash":4000,
+            "LoseBattle":[
+                "That's it...?"
+            ],
+            "WinBattle":[
+                "...ugh."
+            ]
+        },
+        {
+            "BattleScene":"Beach",
+            "Class":"Louis",
+            "Party":[
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                },
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                },
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                },
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                },
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                },
+                {
+                    "Moves":[
+                        "Blowup Blast"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Basic Candy Cube",
+                    "Name":"Louis",
+                    "Equip":{
+                        "Artifact":"4",
+                        "Helmet":"3"
+                    },
+                    "Star":5,
+                    "Ability":"Balloon Pop"
+                }
+            ],
+            "Name":"Fanatics",
+            "Cash":3000,
+            "Format":"Doubles",
+            "LoseBattle":[
+                "Louis reigns supreme."
+            ],
+            "WinBattle":[
+                "We're done with the Louis Fanclub... but not with Louis."
+            ]
+        },
+        {
+            "BattleScene":"Sweetsville",
+            "Class":"von Sweets",
+            "Party":[
+                {
+                    "Name":"Grimsugar",
+                    "Level":25
+                },
+                {
+                    "Name":"Candygrief",
+                    "Level":26
+                },
+                {
+                    "Name":"Grufflin",
+                    "Level":27
+                }
+            ],
+            "Name":"Goon",
+            "Cash":2500,
+            "LoseBattle":[
+                "I keep my clothes."
+            ],
+            "WinBattle":[
+                "...do I really have to trade clothes?"
+            ]
+        },
+        {
+            "BattleScene":"Sweetsville",
+            "Party":[
+                {
+                    "Name":"Mourveil",
+                    "Level":30
+                },
+                {
+                    "Name":"Skadean",
+                    "Level":30
+                },
+                {
+                    "Name":"Terruma",
+                    "Level":30
+                },
+                {
+                    "Name":"Frigale",
+                    "Level":30
+                }
+            ],
+            "Class":"Rebattler",
+            "Interact":[
+                "..."
+            ],
+            "WinBattle":[
+                "..."
+            ],
+            "Rebattle":true,
+            "Name":"Ryan",
+            "BeatenInteract":[
+                "..."
+            ],
+            "Music":"Battlefield4",
+            "LoseBattle":[
+                "..."
+            ],
+            "Cash":1000
+        },
+        {
+            "BattleScene":"CandyFactory",
+            "Class":"Goon",
+            "Party":[
+                {
+                    "Name":"Bonikrow",
+                    "Level":28
+                },
+                {
+                    "Name":"Elektiel",
+                    "Level":29
+                },
+                {
+                    "Name":"Borbek",
+                    "Level":30
+                }
+            ],
+            "Name":"Barry",
+            "Cash":3000,
+            "LoseBattle":[
+                "You aren't strong enough to do my riddle, yet."
+            ],
+            "WinBattle":[
+                "My riddle is yours."
+            ]
+        },
+        {
+            "BattleScene":"CandyFactory",
+            "Class":"Goon",
+            "Party":[
+                {
+                    "Name":"Shyce",
+                    "Level":28
+                },
+                {
+                    "Name":"Kibara",
+                    "Level":29
+                },
+                {
+                    "Name":"Kidere",
+                    "Level":30
+                }
+            ],
+            "Name":"Alyssa",
+            "Cash":3000,
+            "LoseBattle":[
+                "You aren't strong enough to do my riddle, yet."
+            ],
+            "WinBattle":[
+                "My riddle is yours."
+            ]
+        },
+        {
+            "BattleScene":"CandyFactory",
+            "Class":"Goon",
+            "Party":[
+                {
+                    "Name":"Kowosu",
+                    "Level":28
+                },
+                {
+                    "Name":"Spirasol",
+                    "Level":29
+                },
+                {
+                    "Name":"Spiraryu",
+                    "Level":30
+                }
+            ],
+            "Name":"Laurel",
+            "Cash":3000,
+            "LoseBattle":[
+                "You aren't strong enough to do my riddle, yet."
+            ],
+            "WinBattle":[
+                "My riddle is yours."
+            ]
+        },
+        {
+            "BattleScene":"CandyFactory",
+            "Class":"Goon",
+            "Party":[
+                {
+                    "Name":"Dramask",
+                    "Level":28
+                },
+                {
+                    "Name":"Theaterror",
+                    "Level":29
+                },
+                {
+                    "Name":"Maskomedy",
+                    "Level":30
+                }
+            ],
+            "Name":"Peter",
+            "Cash":3000,
+            "LoseBattle":[
+                "You aren't strong enough to do my riddle, yet."
+            ],
+            "WinBattle":[
+                "My riddle is yours."
+            ]
+        },
+        {
+            "BattleScene":"CandyFactory",
+            "Class":"Tycoon",
+            "Party":[
+                {
+                    "Moves":[
+                        "Feast",
+                        "Gem Blast",
+                        "Sugar Rush"
+                    ],
+                    "Level":23,
+                    "HeldItem":"Used Crayons",
+                    "Name":"Calamander",
+                    "Star":5,
+                    "Ability":"Chocolate Drizzle"
+                },
+                {
+                    "Moves":[
+                        "Glaze Punch",
+                        "Ambush",
+                        "Retribution"
+                    ],
+                    "Level":24,
+                    "HeldItem":"Champion Belt",
+                    "Name":"Bunswirl",
+                    "Star":5,
+                    "Ability":"Caloric Deficit"
+                },
+                {
+                    "Moves":[
+                        "Fireball",
+                        "Choke"
+                    ],
+                    "Level":25,
+                    "HeldItem":"Fire Taffy",
+                    "Name":"Skorpent",
+                    "Star":5,
+                    "Ability":"Scorch"
+                },
+                {
+                    "Moves":[
+                        "Night Night",
+                        "Food Fight",
+                        "Harmony"
+                    ],
+                    "Level":26,
+                    "HeldItem":"Cure Jelly",
+                    "Name":"Candygrief",
+                    "Star":5,
+                    "Ability":"Courteous"
+                },
+                {
+                    "Moves":[
+                        "Double Bite",
+                        "Fiery Bite",
+                        "Electro Bite",
+                        "Burning Orb"
+                    ],
+                    "Level":27,
+                    "HeldItem":"Strength Jelly",
+                    "Name":"Meltimaw",
+                    "Star":5,
+                    "Ability":"Sharp Fangs"
+                },
+                {
+                    "Moves":[
+                        "Mind Drain",
+                        "Enlightenment",
+                        "Food Fight"
+                    ],
+                    "Level":28,
+                    "HeldItem":"Determination Jelly",
+                    "Name":"Candeigon",
+                    "Star":5,
+                    "Ability":"Sticky"
+                }
+            ],
+            "Name":"von Sweets",
+            "Cash":6000,
+            "LoseBattle":[
+                "..."
+            ],
+            "WinBattle":[
+                "I'm finally free of my key."
+            ]
+        },
+        {
+            "BattleScene":"GenericIndoors",
+            "Party":[
+                {
+                    "Ability":"Rejuvenator",
+                    "Moves":[
+                        "Hit-n-Run"
+                    ],
+                    "Level":15,
+                    "Name":"Tortles"
+                },
+                {
+                    "Ability":"Rejuvenator",
+                    "Moves":[
+                        "Hit-n-Run"
+                    ],
+                    "Level":15,
+                    "Name":"Plipo"
+                },
+                {
+                    "Ability":"Rejuvenator",
+                    "Moves":[
+                        "Hit-n-Run"
+                    ],
+                    "Level":15,
+                    "Name":"Tadappole"
+                }
+            ],
+            "Class":"Debug",
+            "Interact":[
+                "..."
+            ],
+            "WinBattle":[
+                "You certainly picked a strong Doodle!"
+            ],
+            "Name":"Professor",
+            "LoseBattle":[
+                "I don't know how you lost to me."
+            ],
+            "Model":"DoodleRep",
+            "BeatenInteract":[
+                "..."
+            ],
+            "Cash":250
+        },
+        {
+            "BattleScene":"GenericIndoors",
+            "Class":"Rich Boy",
+            "Party":[
+                {
+                    "Name":"Endovul",
+                    "Star":5,
+                    "Ability":"Deepfreeze",
+                    "Moves":[
+                        "Alloy Missiles",
+                        "Chemical Breath"
+                    ],
+                    "Level":29
+                },
+                {
+                    "Star":5,
+                    "Moves":[
+                        "Shadow Lurk",
+                        "Burning Orb",
+                        "Soulfire"
+                    ],
+                    "Level":30,
+                    "Name":"Impling"
+                },
+                {
+                    "Name":"Sharazor",
+                    "Star":5,
+                    "Ability":"Razor Skin",
+                    "Moves":[
+                        "Capsize",
+                        "Iron Chomp",
+                        "Crunch"
+                    ],
+                    "Level":31
+                },
+                {
+                    "Ability":"Slash Expert",
+                    "Moves":[
+                        "Dark Slash",
+                        "Sharpen",
+                        "Subterfuge",
+                        "Fiery Slash"
+                    ],
+                    "Level":32,
+                    "Name":"Shadark"
+                }
+            ],
+            "Name":"Quincy",
+            "Cash":10000,
+            "LoseBattle":[
+                "Yes! The key is mine!"
+            ],
+            "WinBattle":[
+                "Again?!"
+            ]
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Eftue",
+                    "Level":25
+                },
+                {
+                    "Name":"Apurrition",
+                    "Level":27
+                },
+                {
+                    "Name":"Eftue",
+                    "Level":29
+                }
+            ],
+            "Class":"Academy Student",
+            "Interact":[
+                "I'm studying these runes!"
+            ],
+            "WinBattle":[
+                "Still need to study!"
+            ],
+            "Name":"Ashley",
+            "Music":"Battlefield4",
+            "BeatenInteract":[
+                "Darn!"
+            ],
+            "LoseBattle":[
+                "I have acquired good data from this battle."
+            ],
+            "Cash":3000
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Kitsen",
+                    "Level":25
+                },
+                {
+                    "Name":"Ruffire",
+                    "Level":27
+                },
+                {
+                    "Name":"Furzen",
+                    "Level":29
+                }
+            ],
+            "Class":"Academy Student",
+            "Interact":[
+                "I love my Doodles! Let me show you them!"
+            ],
+            "WinBattle":[
+                "...I still love my Doodles, despite losing this battle!"
+            ],
+            "Name":"Mary",
+            "Music":"Battlefield4",
+            "BeatenInteract":[
+                "I still love my Doodles."
+            ],
+            "LoseBattle":[
+                "Yaaaaaay!"
+            ],
+            "Cash":3000
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Twigon",
+                    "Level":25
+                },
+                {
+                    "Name":"Wvyarn",
+                    "Level":27
+                },
+                {
+                    "Name":"Spunny",
+                    "Level":29
+                }
+            ],
+            "Class":"Academy Student",
+            "Interact":[
+                "I'm apart of the Sewing Club at DoodleCo."
+            ],
+            "WinBattle":[
+                "Ugh... need to evolve my Wvyarn to stand a chance."
+            ],
+            "Name":"Jake",
+            "Music":"Battlefield4",
+            "BeatenInteract":[
+                "I'm feeling Sew-sew."
+            ],
+            "LoseBattle":[
+                "Awesomesauce!"
+            ],
+            "Cash":3000
+        },
+        {
+            "BattleScene":"Route1",
+            "Party":[
+                {
+                    "Name":"Squed",
+                    "Level":25
+                },
+                {
+                    "Name":"Squed",
+                    "Level":27
+                },
+                {
+                    "Name":"Squed",
+                    "Level":29
+                },
+                {
+                    "Name":"Squed",
+                    "Level":31
+                },
+                {
+                    "Name":"Moyai",
+                    "Level":31
+                }
+            ],
+            "Class":"Academy Student",
+            "Interact":[
+                "Down with the Louis Fanclub!"
+            ],
+            "WinBattle":[
+                "Do you want to join the Squed Fanclub?"
+            ],
+            "Name":"Isaac",
+            "Music":"Battlefield4",
+            "BeatenInteract":[
+                "Do you want to join the Squed Fanclub?"
+            ],
+            "LoseBattle":[
+                "See - Squed is way better than Louis!"
+            ],
+            "Cash":3000
+        }
+    ],
+    "Class":[
+        
+    ]
+}
