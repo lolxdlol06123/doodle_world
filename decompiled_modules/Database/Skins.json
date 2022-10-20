@@ -42,6 +42,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10320048483",
                 "SBSprite":"http://www.roblox.com/asset/?id=10320051784",
                 "BackSprite":"http://www.roblox.com/asset/?id=10320050438"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11239908770",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11239907983",
+                "SBSprite":"http://www.roblox.com/asset/?id=11239910014",
+                "BackSprite":"http://www.roblox.com/asset/?id=11239909402"
             }
         ],
         "Drakothread":[
@@ -76,6 +83,17 @@
                 "Contributors":[
                     99230929,
                     1134221344
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11100089209",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11100088793",
+                "SBSprite":"http://www.roblox.com/asset/?id=11100090457",
+                "BackSprite":"http://www.roblox.com/asset/?id=11100089843",
+                "Contributors":[
+                    2981436006,
+                    1050797054
                 ]
             }
         ],
@@ -181,6 +199,18 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10720952656",
                 "SBSprite":"http://www.roblox.com/asset/?id=10724955969",
                 "BackSprite":"http://www.roblox.com/asset/?id=10720953998"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254684892",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254697131",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254685545",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254683761",
+                "Contributors":[
+                    87921828,
+                    880765124
+                ]
             }
         ],
         "Furzen":[
@@ -218,6 +248,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10646238126",
                 "SBSprite":"http://www.roblox.com/asset/?id=10646243833",
                 "BackSprite":"http://www.roblox.com/asset/?id=10646242533"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11277234795",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11277171100",
+                "SBSprite":"http://www.roblox.com/asset/?id=11277170610",
+                "BackSprite":"http://www.roblox.com/asset/?id=11277235360"
             }
         ],
         "Candeigon":[
@@ -273,6 +310,17 @@
                 "Contributors":[
                     120187144,
                     1050797054
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11265558379",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11265558026",
+                "SBSprite":"http://www.roblox.com/asset/?id=11265559184",
+                "BackSprite":"http://www.roblox.com/asset/?id=11265558800",
+                "Contributors":[
+                    250350284,
+                    988780182
                 ]
             }
         ],
@@ -336,6 +384,17 @@
                 "Contributors":[
                     988780182,
                     156639360
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258229106",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258240907",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258274474",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258228687",
+                "Contributors":[
+                    1134221344,
+                    599104111
                 ]
             }
         ],
@@ -405,6 +464,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10792482473",
                 "SBSprite":"http://www.roblox.com/asset/?id=10792484653",
                 "BackSprite":"http://www.roblox.com/asset/?id=10792483804"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11265854935",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11265854267",
+                "SBSprite":"http://www.roblox.com/asset/?id=11265871249",
+                "BackSprite":"http://www.roblox.com/asset/?id=11265870836"
             }
         ],
         "Jelluminous":[
@@ -459,6 +525,17 @@
                 "Contributors":[
                     204406216,
                     988780182
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284721933",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284720143",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284723905",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284723077",
+                "Contributors":[
+                    1134221344,
+                    28581543
                 ]
             }
         ],
@@ -684,6 +761,18 @@
                     1734290639,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11196708326",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11196707724",
+                "SBSprite":"http://www.roblox.com/asset/?id=11196709709",
+                "BackSprite":"http://www.roblox.com/asset/?id=11196709176",
+                "Contributors":[
+                    880765124,
+                    2001161546
+                ]
             }
         ],
         "Blossafaun":[
@@ -769,6 +858,18 @@
                 "Contributors":[
                     403074484,
                     988780182
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11117483773",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11117483174",
+                "SBSprite":"http://www.roblox.com/asset/?id=11117486184",
+                "BackSprite":"http://www.roblox.com/asset/?id=11117484529",
+                "Contributors":[
+                    204406216,
+                    880765124
                 ]
             }
         ],
@@ -866,6 +967,21 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10996781551",
                 "SBSprite":"http://www.roblox.com/asset/?id=10996785772",
                 "BackSprite":"http://www.roblox.com/asset/?id=10996784516"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272376342",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272376584",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272376010",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272376150"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309399858",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309399904",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309399770",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309399807"
             }
         ],
         "Theaterror":[
@@ -910,6 +1026,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10936161047",
                 "SBSprite":"http://www.roblox.com/asset/?id=10936165305",
                 "BackSprite":"http://www.roblox.com/asset/?id=10936164419"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11285036820",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284954374",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284956415",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284955784"
             }
         ],
         "Voltatoo":[
@@ -957,9 +1080,9 @@
                 ]
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10708126695",
+                "SFSprite":"http://www.roblox.com/asset/?id=11090362753",
                 "Name":"Songbird",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10708126121",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11090358667",
                 "SBSprite":"http://www.roblox.com/asset/?id=10708128371",
                 "BackSprite":"http://www.roblox.com/asset/?id=10708127824",
                 "Contributors":[
@@ -1028,6 +1151,18 @@
                     1151410937,
                     988780182
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240314518",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240313930",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266834781",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240315576",
+                "Contributors":[
+                    1593652001,
+                    250350284
+                ]
             }
         ],
         "Appluff":[
@@ -1080,6 +1215,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10398526815",
                 "SBSprite":"http://www.roblox.com/asset/?id=10398532599",
                 "BackSprite":"http://www.roblox.com/asset/?id=10398531060"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11228095153",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11228093225",
+                "SBSprite":"http://www.roblox.com/asset/?id=11228097829",
+                "BackSprite":"http://www.roblox.com/asset/?id=11228095851"
             }
         ],
         "Polargeist":[
@@ -1121,10 +1263,10 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=9204658115"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=9351488506",
+                "SFSprite":"http://www.roblox.com/asset/?id=9367724272",
                 "Discontinued":true,
                 "Name":"Easter 2022",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9351520722",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9367644137",
                 "SBSprite":"http://www.roblox.com/asset/?id=9351489424",
                 "BackSprite":"http://www.roblox.com/asset/?id=9351488953"
             },
@@ -1155,6 +1297,28 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10122977691",
                 "SBSprite":"http://www.roblox.com/asset/?id=10123540665",
                 "BackSprite":"http://www.roblox.com/asset/?id=10123539942"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11197573311",
+                "Name":"Rat n' Roll",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11197572801",
+                "SBSprite":"http://www.roblox.com/asset/?id=11197574251",
+                "BackSprite":"http://www.roblox.com/asset/?id=11197573843",
+                "Contributors":[
+                    1050797054,
+                    237154932
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11307783366",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11307782394",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258235617",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258234427",
+                "Contributors":[
+                    1134221344,
+                    2324478591
+                ]
             }
         ],
         "Malotrick":[
@@ -1203,6 +1367,17 @@
                 "Contributors":[
                     878912362,
                     72405233
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11116096732",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11116095529",
+                "SBSprite":"http://www.roblox.com/asset/?id=11116098812",
+                "BackSprite":"http://www.roblox.com/asset/?id=11116097489",
+                "Contributors":[
+                    28581543,
+                    1440775701
                 ]
             }
         ],
@@ -1271,6 +1446,17 @@
                     1050797054,
                     3324406236
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11116316859",
+                "Name":"Splat",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11116315803",
+                "SBSprite":"http://www.roblox.com/asset/?id=11116318781",
+                "BackSprite":"http://www.roblox.com/asset/?id=11116317790",
+                "Contributors":[
+                    327400221,
+                    988780182
+                ]
             }
         ],
         "Squed":[
@@ -1316,6 +1502,21 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643037752",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643038633",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643038402"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11125458550",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11125457786",
+                "SBSprite":"http://www.roblox.com/asset/?id=11125460155",
+                "BackSprite":"http://www.roblox.com/asset/?id=11125459262"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240016000",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240015302",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240017221",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240016500"
             }
         ],
         "Ruffire":[
@@ -1369,6 +1570,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10646763777",
                 "SBSprite":"http://www.roblox.com/asset/?id=10646769689",
                 "BackSprite":"http://www.roblox.com/asset/?id=10646767546"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11118354694",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11118353838",
+                "SBSprite":"http://www.roblox.com/asset/?id=11118360333",
+                "BackSprite":"http://www.roblox.com/asset/?id=11118359462"
             }
         ],
         "Grufflin":[
@@ -1424,6 +1632,17 @@
                 "Contributors":[
                     1068980500,
                     1352768800
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11228339960",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11228246581",
+                "SBSprite":"http://www.roblox.com/asset/?id=11228110062",
+                "BackSprite":"http://www.roblox.com/asset/?id=11228108254",
+                "Contributors":[
+                    23344637,
+                    123440990
                 ]
             }
         ],
@@ -1519,7 +1738,7 @@
             },
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10861945667",
-                "HuntOnly":true,
+                "Discontinued":true,
                 "Name":"DJ",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10861942689",
                 "SBSprite":"http://www.roblox.com/asset/?id=10861947263",
@@ -1549,7 +1768,7 @@
                 "SFSprite":"http://www.roblox.com/asset/?id=10482997653",
                 "Name":"Barista",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10482996980",
-                "SBSprite":"http://www.roblox.com/asset/?id=10482999060'",
+                "SBSprite":"http://www.roblox.com/asset/?id=10482999060",
                 "BackSprite":"http://www.roblox.com/asset/?id=10724608162",
                 "Contributors":[
                     1134221344,
@@ -1645,6 +1864,25 @@
                     654599347,
                     988780182
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272375758",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272375867",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272375481",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272375618",
+                "Contributors":[
+                    2879061016,
+                    72405233
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309399687",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309399734",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309399585",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309399648"
             }
         ],
         "Noxvul":[
@@ -1663,9 +1901,9 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=10325276932"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10570107658",
+                "SFSprite":"http://www.roblox.com/asset/?id=11230601343",
                 "Name":"Bio Flask",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10570104260",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11230600941",
                 "SBSprite":"http://www.roblox.com/asset/?id=10570112230",
                 "BackSprite":"http://www.roblox.com/asset/?id=10570110122"
             },
@@ -1740,6 +1978,13 @@
                     50834052,
                     23344637
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309409806",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309409868",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309409679",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309409747"
             }
         ],
         "Boulduo":[
@@ -1830,6 +2075,20 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10998368983",
                 "SBSprite":"http://www.roblox.com/asset/?id=10998375933",
                 "BackSprite":"http://www.roblox.com/asset/?id=10998371057"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11152602715",
+                "Name":"Wizard",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11152602513",
+                "SBSprite":"http://www.roblox.com/asset/?id=11152603086",
+                "BackSprite":"http://www.roblox.com/asset/?id=11152602930"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258175344",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258133393",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258175713",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258174862"
             }
         ],
         "Tabbolt":[
@@ -1944,10 +2203,32 @@
                 "Name":"Punk",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10792469697",
                 "SBSprite":"http://www.roblox.com/asset/?id=10792620404",
-                "BackSprite":"http://www.roblox.com/asset/?id=10792472889",
+                "BackSprite":"http://www.roblox.com/asset/?id=11283016713",
                 "Contributors":[
                     703843636,
                     1134221344
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11197435938",
+                "Name":"Scientist",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11197435148",
+                "SBSprite":"http://www.roblox.com/asset/?id=11197436959",
+                "BackSprite":"http://www.roblox.com/asset/?id=11197436344",
+                "Contributors":[
+                    1352768800,
+                    58759115
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11162273553",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11162272854",
+                "SBSprite":"http://www.roblox.com/asset/?id=11162274722",
+                "BackSprite":"http://www.roblox.com/asset/?id=11162273938",
+                "Contributors":[
+                    23344637,
+                    51619033
                 ]
             }
         ],
@@ -2114,6 +2395,17 @@
                     195882092,
                     1050797054
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11279973631",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11280007759",
+                "SBSprite":"http://www.roblox.com/asset/?id=11279975566",
+                "BackSprite":"http://www.roblox.com/asset/?id=11279974371",
+                "Contributors":[
+                    424521438,
+                    28581543
+                ]
             }
         ],
         "Clankey":[
@@ -2273,6 +2565,18 @@
                 "Contributors":[
                     72405233,
                     898039449
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11217334917",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11217333683",
+                "SBSprite":"http://www.roblox.com/asset/?id=11217226006",
+                "BackSprite":"http://www.roblox.com/asset/?id=11217224533",
+                "Contributors":[
+                    23344637,
+                    250350284
                 ]
             }
         ],
@@ -2437,6 +2741,18 @@
                     1718792960,
                     880765124
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11214721062",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11214719854",
+                "SBSprite":"http://www.roblox.com/asset/?id=11214723693",
+                "BackSprite":"http://www.roblox.com/asset/?id=11214722589",
+                "Contributors":[
+                    23344637,
+                    250350284
+                ]
             }
         ],
         "Gemin":[
@@ -2499,6 +2815,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10997062800",
                 "SBSprite":"http://www.roblox.com/asset/?id=10997073905",
                 "BackSprite":"http://www.roblox.com/asset/?id=10997071107"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11198297609",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11198297284",
+                "SBSprite":"http://www.roblox.com/asset/?id=11198316870",
+                "BackSprite":"http://www.roblox.com/asset/?id=11198316319"
             }
         ],
         "Tufflaze":[
@@ -2566,6 +2890,17 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=10646782235",
                 "Contributors":[
                     457777411,
+                    135784877
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11118362207",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11118361530",
+                "SBSprite":"http://www.roblox.com/asset/?id=11118364958",
+                "BackSprite":"http://www.roblox.com/asset/?id=11118363689",
+                "Contributors":[
+                    1516664397,
                     135784877
                 ]
             }
@@ -2648,6 +2983,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643637400",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643640023",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643639192"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11100085047",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11100084552",
+                "SBSprite":"http://www.roblox.com/asset/?id=11100086135",
+                "BackSprite":"http://www.roblox.com/asset/?id=11100085772"
             }
         ],
         "Serrafin":[
@@ -2698,7 +3040,7 @@
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10301523576",
                 "Name":"Masquerade",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10301522299",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11307778393",
                 "SBSprite":"http://www.roblox.com/asset/?id=10301526377",
                 "BackSprite":"http://www.roblox.com/asset/?id=10301525241",
                 "Contributors":[
@@ -2726,6 +3068,17 @@
                 "Contributors":[
                     306571058,
                     880765124
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11247607547",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11247606063",
+                "SBSprite":"http://www.roblox.com/asset/?id=11247745563",
+                "BackSprite":"http://www.roblox.com/asset/?id=11247613841",
+                "Contributors":[
+                    306571058,
+                    23344637
                 ]
             }
         ],
@@ -2813,6 +3166,17 @@
                     91292557,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11229849833",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11229849138",
+                "SBSprite":"http://www.roblox.com/asset/?id=11229850488",
+                "BackSprite":"http://www.roblox.com/asset/?id=11229850162",
+                "Contributors":[
+                    132173778,
+                    1050797054
+                ]
             }
         ],
         "Schiwi":[
@@ -2865,6 +3229,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10503505012",
                 "SBSprite":"http://www.roblox.com/asset/?id=10503509282",
                 "BackSprite":"http://www.roblox.com/asset/?id=10503507653"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11283136032",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11283138530",
+                "SBSprite":"http://www.roblox.com/asset/?id=11283137019",
+                "BackSprite":"http://www.roblox.com/asset/?id=11283353759"
             }
         ],
         "Archuma":[
@@ -2909,6 +3280,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10997809024",
                 "SBSprite":"http://www.roblox.com/asset/?id=10997826243",
                 "BackSprite":"http://www.roblox.com/asset/?id=10997821466"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254167903",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254167085",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254169304",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254168551"
             }
         ],
         "Wvyarn":[
@@ -2932,6 +3311,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643643208",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643646314",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643645420"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11100087069",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11100086403",
+                "SBSprite":"http://www.roblox.com/asset/?id=11100088163",
+                "BackSprite":"http://www.roblox.com/asset/?id=11100087676"
             }
         ],
         "Bunswirl":[
@@ -3015,6 +3401,17 @@
                 "Contributors":[
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11265856489",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11265856194",
+                "SBSprite":"http://www.roblox.com/asset/?id=11265857411",
+                "BackSprite":"http://www.roblox.com/asset/?id=11265872947",
+                "Contributors":[
+                    282949075,
+                    1050797054
+                ]
             }
         ],
         "Beetal":[
@@ -3090,6 +3487,20 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10998379177",
                 "SBSprite":"http://www.roblox.com/asset/?id=10998390142",
                 "BackSprite":"http://www.roblox.com/asset/?id=10998385981"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11152603501",
+                "Name":"Wizard",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11152603224",
+                "SBSprite":"http://www.roblox.com/asset/?id=11152603943",
+                "BackSprite":"http://www.roblox.com/asset/?id=11152603724"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258219083",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258214900",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258217440",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258215834"
             }
         ],
         "Flaskit":[
@@ -3275,6 +3686,19 @@
                     28581543,
                     306571058
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11173621194",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11173619710",
+                "SBSprite":"http://www.roblox.com/asset/?id=11173622736",
+                "BackSprite":"http://www.roblox.com/asset/?id=11173621850",
+                "Contributors":[
+                    84585194,
+                    156639360,
+                    1050797054
+                ]
             }
         ],
         "Humbiscus":[
@@ -3322,6 +3746,17 @@
                 "Contributors":[
                     1050797054,
                     1256517075
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11239913407",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11239911812",
+                "SBSprite":"http://www.roblox.com/asset/?id=11239915119",
+                "BackSprite":"http://www.roblox.com/asset/?id=11239914324",
+                "Contributors":[
+                    804113896,
+                    135784877
                 ]
             }
         ],
@@ -3386,6 +3821,18 @@
                     1050797054,
                     88978820
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11180057063",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11180051075",
+                "SBSprite":"http://www.roblox.com/asset/?id=11180060184",
+                "BackSprite":"http://www.roblox.com/asset/?id=11180059080",
+                "Contributors":[
+                    23344637,
+                    2935268112,
+                    1593784520
+                ]
             }
         ],
         "Lumiline":[
@@ -3437,6 +3884,17 @@
                 "Contributors":[
                     988780182,
                     826423012
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11094870611",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11094868484",
+                "SBSprite":"http://www.roblox.com/asset/?id=11094873354",
+                "BackSprite":"http://www.roblox.com/asset/?id=11094872250",
+                "Contributors":[
+                    23344637,
+                    88978820
                 ]
             }
         ],
@@ -3588,6 +4046,21 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10122974150",
                 "SBSprite":"http://www.roblox.com/asset/?id=10122976284",
                 "BackSprite":"http://www.roblox.com/asset/?id=10122975526"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11197571601",
+                "Name":"Rat n' Roll",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11197571203",
+                "SBSprite":"http://www.roblox.com/asset/?id=11197572454",
+                "BackSprite":"http://www.roblox.com/asset/?id=11197571979"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258231209",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258230468",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258232429",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258231814"
             }
         ],
         "Geckgoo":[
@@ -3633,6 +4106,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10647795768",
                 "SBSprite":"http://www.roblox.com/asset/?id=10647798059",
                 "BackSprite":"http://www.roblox.com/asset/?id=10647797421"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254673520",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254673044",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254674897",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254674224"
             }
         ],
         "Tadappole":[
@@ -3722,6 +4203,29 @@
                     327400221,
                     1352768800
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11196544015",
+                "Name":"Bookworm",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11196543334",
+                "SBSprite":"http://www.roblox.com/asset/?id=11196545411",
+                "BackSprite":"http://www.roblox.com/asset/?id=11196544837",
+                "Contributors":[
+                    1352768800,
+                    403074484
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240216515",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240216043",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240217429",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240216952",
+                "Contributors":[
+                    2935268112,
+                    1352768800
+                ]
             }
         ],
         "Apurrition":[
@@ -3760,6 +4264,27 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10937555964",
                 "SBSprite":"http://www.roblox.com/asset/?id=10937563923",
                 "BackSprite":"http://www.roblox.com/asset/?id=10937562294"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11158052294",
+                "Name":"Academic",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11158051918",
+                "SBSprite":"http://www.roblox.com/asset/?id=11158053315",
+                "BackSprite":"http://www.roblox.com/asset/?id=11158052754"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11267084580",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11267083578",
+                "SBSprite":"http://www.roblox.com/asset/?id=11267086057",
+                "BackSprite":"http://www.roblox.com/asset/?id=11267085202"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309401125",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309432253",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309401246",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309401183"
             }
         ],
         "Glowcat":[
@@ -3804,6 +4329,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10722961258",
                 "SBSprite":"http://www.roblox.com/asset/?id=10722966299",
                 "BackSprite":"http://www.roblox.com/asset/?id=10722965814"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11094865029",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11094864533",
+                "SBSprite":"http://www.roblox.com/asset/?id=11094867949",
+                "BackSprite":"http://www.roblox.com/asset/?id=11094865632"
             }
         ],
         "Angerler":[
@@ -3867,6 +4399,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10996126061",
                 "SBSprite":"http://www.roblox.com/asset/?id=10996137381",
                 "BackSprite":"http://www.roblox.com/asset/?id=10996134404"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272379226",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272540687",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272378927",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272379081"
             }
         ],
         "Toxipupa":[
@@ -3952,9 +4492,17 @@
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10862446161",
                 "Name":"La Crêpe",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10862441893",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11306743140",
                 "SBSprite":"http://www.roblox.com/asset/?id=10862448907",
                 "BackSprite":"http://www.roblox.com/asset/?id=10862447249"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11196572728",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11196572098",
+                "SBSprite":"http://www.roblox.com/asset/?id=11196574710",
+                "BackSprite":"http://www.roblox.com/asset/?id=11196573471"
             }
         ],
         "Wydling":[
@@ -4054,6 +4602,25 @@
                     1352768800,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11125462518",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11125461865",
+                "SBSprite":"http://www.roblox.com/asset/?id=11125464161",
+                "BackSprite":"http://www.roblox.com/asset/?id=11125463354"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240020710",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240019665",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240022548",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240021870",
+                "Contributors":[
+                    1400418681,
+                    1352768800
+                ]
             }
         ],
         "Statikeet":[
@@ -4130,6 +4697,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10996898732",
                 "SBSprite":"http://www.roblox.com/asset/?id=10997060779",
                 "BackSprite":"http://www.roblox.com/asset/?id=11003990233"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11198295816",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11198295497",
+                "SBSprite":"http://www.roblox.com/asset/?id=11198296779",
+                "BackSprite":"http://www.roblox.com/asset/?id=11198296233"
             }
         ],
         "Borbek":[
@@ -4183,6 +4758,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10412643035",
                 "SBSprite":"http://www.roblox.com/asset/?id=10412644610",
                 "BackSprite":"http://www.roblox.com/asset/?id=10412644080"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11092931135",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11093331211",
+                "SBSprite":"http://www.roblox.com/asset/?id=11092931976",
+                "BackSprite":"http://www.roblox.com/asset/?id=11092931556"
             }
         ],
         "Sharazor":[
@@ -4259,6 +4842,19 @@
                 "Contributors":[
                     988780182,
                     156639360
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11092932571",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11092932316",
+                "SBSprite":"http://www.roblox.com/asset/?id=11092933390",
+                "BackSprite":"http://www.roblox.com/asset/?id=11092932904",
+                "Contributors":[
+                    880765124,
+                    11272555,
+                    1050797054
                 ]
             }
         ],
@@ -4338,7 +4934,7 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=9747265595"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10007642284",
+                "SFSprite":"http://www.roblox.com/asset/?id=11306736385",
                 "Name":"Eldritch",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10007636329",
                 "SBSprite":"http://www.roblox.com/asset/?id=10007644392",
@@ -4396,6 +4992,17 @@
                 "Contributors":[
                     1050797054,
                     156639360
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272378651",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272378781",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272378406",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272378551",
+                "Contributors":[
+                    661209074,
+                    250350284
                 ]
             }
         ],
@@ -4498,6 +5105,26 @@
                 "Contributors":[
                     11272555,
                     1352768800
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11125453013",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11125452131",
+                "SBSprite":"http://www.roblox.com/asset/?id=11125456601",
+                "BackSprite":"http://www.roblox.com/asset/?id=11125454984"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266650638",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266635999",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266638729",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266637768",
+                "Contributors":[
+                    660519587,
+                    1352768800,
+                    988780182
                 ]
             }
         ],
@@ -4615,6 +5242,21 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10996774010",
                 "SBSprite":"http://www.roblox.com/asset/?id=10996779378",
                 "BackSprite":"http://www.roblox.com/asset/?id=10996777737"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272377302",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272377516",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272376830",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272377018"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309400044",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309400079",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309399960",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309400001"
             }
         ],
         "Staligant":[
@@ -4715,6 +5357,21 @@
                     1593784520
                 ],
                 "BackSprite":"http://www.roblox.com/asset/?id=10997468765"
+            },
+            {
+                "SBSprite":"http://www.roblox.com/asset/?id=11157224480",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11157179472",
+                "FemaleSFSprite":"http://www.roblox.com/asset/?id=11157181480",
+                "FemaleBackSprite":"http://www.roblox.com/asset/?id=11157225015",
+                "FemaleFrontSprite":"http://www.roblox.com/asset/?id=11157180957",
+                "SFSprite":"http://www.roblox.com/asset/?id=11157180579",
+                "FemaleSBSprite":"http://www.roblox.com/asset/?id=11157225588",
+                "Name":"Halloween",
+                "Contributors":[
+                    250350284,
+                    1221080747
+                ],
+                "BackSprite":"http://www.roblox.com/asset/?id=11157213853"
             }
         ],
         "Archopos":[
@@ -4776,6 +5433,18 @@
                     1796531980,
                     1050797054,
                     1134221344
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254238070",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254169727",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254171335",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254170865",
+                "Contributors":[
+                    2455904907,
+                    880765124
                 ]
             }
         ],
@@ -4946,6 +5615,17 @@
                     1440775701,
                     1050797054
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11277173073",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11277173288",
+                "SBSprite":"http://www.roblox.com/asset/?id=11277172612",
+                "BackSprite":"http://www.roblox.com/asset/?id=11277229578",
+                "Contributors":[
+                    88978820,
+                    1050797054
+                ]
             }
         ],
         "Dramask":[
@@ -4990,6 +5670,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10936156706",
                 "SBSprite":"http://www.roblox.com/asset/?id=10936160396",
                 "BackSprite":"http://www.roblox.com/asset/?id=10936158948"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11285043054",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284944383",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284947958",
+                "BackSprite":"http://www.roblox.com/asset/?id=11285045045"
             }
         ],
         "Pompaboar":[
@@ -5046,6 +5733,18 @@
                 "Contributors":[
                     1134221344,
                     1050797054
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258131420",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258130724",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258131807",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258131131",
+                "Contributors":[
+                    1134221344,
+                    1067858610
                 ]
             }
         ],
@@ -5136,6 +5835,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643346754",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643348834",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643348148"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240110069",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240109288",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240261859",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240261389"
             }
         ],
         "Pupskey":[
@@ -5173,6 +5880,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10646230755",
                 "SBSprite":"http://www.roblox.com/asset/?id=10646235137",
                 "BackSprite":"http://www.roblox.com/asset/?id=10646233814"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11277171767",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11277220804",
+                "SBSprite":"http://www.roblox.com/asset/?id=11277171284",
+                "BackSprite":"http://www.roblox.com/asset/?id=11277171494"
             }
         ],
         "Borbo":[
@@ -5226,6 +5940,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10412602114",
                 "SBSprite":"http://www.roblox.com/asset/?id=10412604703",
                 "BackSprite":"http://www.roblox.com/asset/?id=10412603984"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11092929449",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11092929143",
+                "SBSprite":"http://www.roblox.com/asset/?id=11092930226",
+                "BackSprite":"http://www.roblox.com/asset/?id=11092929906"
             }
         ],
         "Wiglet":[
@@ -5271,7 +5993,7 @@
                 "Name":"Hamlet",
                 "FrontSprite":"http://www.roblox.com/asset/?id=9914042025",
                 "SBSprite":"http://www.roblox.com/asset/?id=9914045809",
-                "BackSprite":"http://www.roblox.com/asset/?id=9914044612"
+                "BackSprite":"http://www.roblox.com/asset/?id=11282696315"
             },
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10480299978",
@@ -5279,6 +6001,30 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10480295735",
                 "SBSprite":"http://www.roblox.com/asset/?id=10480304065",
                 "BackSprite":"http://www.roblox.com/asset/?id=10480302227"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258123226",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258121733",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258123854",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258122443"
+            }
+        ],
+        "Eftue":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11108528188",
+                "Name":"Temple Guardian",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11108527903",
+                "SBSprite":"http://www.roblox.com/asset/?id=11108529298",
+                "BackSprite":"http://www.roblox.com/asset/?id=11108528663"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266523625",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266196349",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266197286",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266196946"
             }
         ],
         "Squonk":[
@@ -5348,6 +6094,147 @@
                     1844547810,
                     1352768800
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11125466025",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11125465104",
+                "SBSprite":"http://www.roblox.com/asset/?id=11125469050",
+                "BackSprite":"http://www.roblox.com/asset/?id=11125467082"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266194024",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266169113",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266170946",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266170368",
+                "Contributors":[
+                    880765124,
+                    2400035959
+                ]
+            }
+        ],
+        "Clangutang":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9120083162",
+                "Name":"Scribbled",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9120082019",
+                "SBSprite":"http://www.roblox.com/asset/?id=9120085373",
+                "BackSprite":"http://www.roblox.com/asset/?id=9120084393"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9201597901",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9191979310",
+                "SBSprite":"http://www.roblox.com/asset/?id=9201599457",
+                "BackSprite":"http://www.roblox.com/asset/?id=9191980217"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9232434714",
+                "Name":"Pirate King",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9232432896",
+                "SBSprite":"http://www.roblox.com/asset/?id=9232436956",
+                "BackSprite":"http://www.roblox.com/asset/?id=9232436252"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10723723846",
+                "Name":"Primitive",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10723723456",
+                "SBSprite":"http://www.roblox.com/asset/?id=10723724866",
+                "BackSprite":"http://www.roblox.com/asset/?id=10723724324",
+                "Contributors":[
+                    1352768800,
+                    427728887
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10851632534",
+                "Name":"Minecart",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10851633194",
+                "SBSprite":"http://www.roblox.com/asset/?id=10851634674",
+                "BackSprite":"http://www.roblox.com/asset/?id=10851633939",
+                "Contributors":[
+                    536327940,
+                    1134221344
+                ]
+            }
+        ],
+        "Junipyro":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9747288419",
+                "Discontinued":true,
+                "Name":"Summer 2022",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9747287727",
+                "SBSprite":"http://www.roblox.com/asset/?id=9747289566",
+                "BackSprite":"http://www.roblox.com/asset/?id=9747289079"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9747039445",
+                "Name":"Scribbled",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9746996639",
+                "SBSprite":"http://www.roblox.com/asset/?id=9747040532",
+                "BackSprite":"http://www.roblox.com/asset/?id=9746997543"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9787959019",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9787958396",
+                "SBSprite":"http://www.roblox.com/asset/?id=9787960030",
+                "BackSprite":"http://www.roblox.com/asset/?id=9787959505"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10224909190",
+                "Name":"Panda",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10224908100",
+                "SBSprite":"http://www.roblox.com/asset/?id=10224911408",
+                "BackSprite":"http://www.roblox.com/asset/?id=10224910611",
+                "Contributors":[
+                    988780182,
+                    80271310
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11273450733",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11273433622",
+                "SBSprite":"http://www.roblox.com/asset/?id=11273171711",
+                "BackSprite":"http://www.roblox.com/asset/?id=11273170990",
+                "Contributors":[
+                    135784877,
+                    1982474626
+                ]
+            }
+        ],
+        "Exovul":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=9698317033",
+                "Name":"Music",
+                "FrontSprite":"http://www.roblox.com/asset/?id=9698314797",
+                "SBSprite":"http://www.roblox.com/asset/?id=9698331012",
+                "BackSprite":"http://www.roblox.com/asset/?id=9698326741"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10325353292",
+                "Name":"Crystalized",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10325352913",
+                "SBSprite":"http://www.roblox.com/asset/?id=10325354427",
+                "BackSprite":"http://www.roblox.com/asset/?id=10325353795"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10570095472",
+                "Name":"Bio Flask",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10570093374",
+                "SBSprite":"http://www.roblox.com/asset/?id=10570102418",
+                "BackSprite":"http://www.roblox.com/asset/?id=10570099813"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10914930440",
+                "Name":"Apocalypse",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10914913259",
+                "SBSprite":"http://www.roblox.com/asset/?id=11306825731",
+                "BackSprite":"http://www.roblox.com/asset/?id=11306823999"
             }
         ],
         "Indigoo":[
@@ -5392,6 +6279,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10410546999",
                 "SBSprite":"http://www.roblox.com/asset/?id=10410564835",
                 "BackSprite":"http://www.roblox.com/asset/?id=10410560610"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11265555714",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11265846735",
+                "SBSprite":"http://www.roblox.com/asset/?id=11265556372",
+                "BackSprite":"http://www.roblox.com/asset/?id=11265556051"
             }
         ],
         "Yagoat":[
@@ -5437,6 +6331,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10933628082",
                 "SBSprite":"http://www.roblox.com/asset/?id=10933630848",
                 "BackSprite":"http://www.roblox.com/asset/?id=10933630401"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11117480193",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11117479218",
+                "SBSprite":"http://www.roblox.com/asset/?id=11117481651",
+                "BackSprite":"http://www.roblox.com/asset/?id=11117481073"
             }
         ],
         "Klydaskunk":[
@@ -5543,6 +6445,24 @@
                 "BackStripe":"http://www.roblox.com/asset/?id=9947661447",
                 "BackOutline":"http://www.roblox.com/asset/?id=9947662790",
                 "BaseBack":"http://www.roblox.com/asset/?id=10921062033"
+            },
+            {
+                "BaseFront":"http://www.roblox.com/asset/?id=11100721653",
+                "StripeOutline":"http://www.roblox.com/asset/?id=9947645957",
+                "SFSprite":"http://www.roblox.com/asset/?id=11100720606",
+                "ShinyBase":"http://www.roblox.com/asset/?id=11100722102",
+                "Halloween":true,
+                "BackShiny":"http://www.roblox.com/asset/?id=11100723099",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11100720191",
+                "Name":"Halloween",
+                "Contributors":[
+                    88978820,
+                    1050797054
+                ],
+                "StripeFront":"http://www.roblox.com/asset/?id=9947646572",
+                "BackStripe":"http://www.roblox.com/asset/?id=9947661447",
+                "BackOutline":"http://www.roblox.com/asset/?id=9947662790",
+                "BaseBack":"http://www.roblox.com/asset/?id=11100722682"
             }
         ],
         "Marigrimm":[
@@ -5648,6 +6568,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10410568428",
                 "SBSprite":"http://www.roblox.com/asset/?id=10410587328",
                 "BackSprite":"http://www.roblox.com/asset/?id=10410580372"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11265557058",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11265556757",
+                "SBSprite":"http://www.roblox.com/asset/?id=11265557633",
+                "BackSprite":"http://www.roblox.com/asset/?id=11265557329"
             }
         ],
         "Roscoon":[
@@ -5673,7 +6600,7 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=9214054570"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10643215387",
+                "SFSprite":"http://www.roblox.com/asset/?id=11283038898",
                 "Name":"Nature",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10044147857",
                 "SBSprite":"http://www.roblox.com/asset/?id=10044166435",
@@ -5685,86 +6612,67 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10217964664",
                 "SBSprite":"http://www.roblox.com/asset/?id=10217970497",
                 "BackSprite":"http://www.roblox.com/asset/?id=10217969248"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266075443",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266075040",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266076092",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266075751"
             }
         ],
-        "Clangutang":[
+        "Pandishi":[
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=9120083162",
+                "SFSprite":"http://www.roblox.com/asset/?id=10240777449",
+                "Name":"Luchador",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10240776156",
+                "SBSprite":"http://www.roblox.com/asset/?id=10240780688",
+                "BackSprite":"http://www.roblox.com/asset/?id=10240778858"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10315711318",
+                "Name":"Lantern Festival",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10315710241",
+                "SBSprite":"http://www.roblox.com/asset/?id=10315712401",
+                "BackSprite":"http://www.roblox.com/asset/?id=10315711846"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10325902876",
                 "Name":"Scribbled",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9120082019",
-                "SBSprite":"http://www.roblox.com/asset/?id=9120085373",
-                "BackSprite":"http://www.roblox.com/asset/?id=9120084393"
+                "FrontSprite":"http://www.roblox.com/asset/?id=10325902338",
+                "SBSprite":"http://www.roblox.com/asset/?id=10325903951",
+                "BackSprite":"http://www.roblox.com/asset/?id=10325903303"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=9201597901",
+                "SFSprite":"http://www.roblox.com/asset/?id=10457044594",
+                "Name":"Kitchen Mishap",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10457043326",
+                "SBSprite":"http://www.roblox.com/asset/?id=10457046977",
+                "BackSprite":"http://www.roblox.com/asset/?id=10457045901"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10912810159",
+                "Premium":true,
+                "Name":"Martial Artist",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10912807891",
+                "SBSprite":"http://www.roblox.com/asset/?id=10912812188",
+                "BackSprite":"http://www.roblox.com/asset/?id=10912811481"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11125425156",
                 "Name":"Prestige",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9191979310",
-                "SBSprite":"http://www.roblox.com/asset/?id=9201599457",
-                "BackSprite":"http://www.roblox.com/asset/?id=9191980217"
+                "FrontSprite":"http://www.roblox.com/asset/?id=11125423143",
+                "SBSprite":"http://www.roblox.com/asset/?id=11125450874",
+                "BackSprite":"http://www.roblox.com/asset/?id=11125427858"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=9232434714",
-                "Name":"Pirate King",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9232432896",
-                "SBSprite":"http://www.roblox.com/asset/?id=9232436956",
-                "BackSprite":"http://www.roblox.com/asset/?id=9232436252"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10723723846",
-                "Name":"Primitive",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10723723456",
-                "SBSprite":"http://www.roblox.com/asset/?id=10723724866",
-                "BackSprite":"http://www.roblox.com/asset/?id=10723724324",
-                "Contributors":[
-                    1352768800,
-                    427728887
-                ]
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10851632534",
-                "Name":"Minecart",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10851633194",
-                "SBSprite":"http://www.roblox.com/asset/?id=10851634674",
-                "BackSprite":"http://www.roblox.com/asset/?id=10851633939",
-                "Contributors":[
-                    536327940,
-                    1134221344
-                ]
-            }
-        ],
-        "Junipyro":[
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=9747288419",
-                "Discontinued":true,
-                "Name":"Summer 2022",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9747287727",
-                "SBSprite":"http://www.roblox.com/asset/?id=9747289566",
-                "BackSprite":"http://www.roblox.com/asset/?id=9747289079"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=9747039445",
-                "Name":"Scribbled",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9746996639",
-                "SBSprite":"http://www.roblox.com/asset/?id=9747040532",
-                "BackSprite":"http://www.roblox.com/asset/?id=9746997543"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=9787959019",
-                "Name":"Prestige",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9787958396",
-                "SBSprite":"http://www.roblox.com/asset/?id=9787960030",
-                "BackSprite":"http://www.roblox.com/asset/?id=9787959505"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10224909190",
-                "Name":"Panda",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10224908100",
-                "SBSprite":"http://www.roblox.com/asset/?id=10224911408",
-                "BackSprite":"http://www.roblox.com/asset/?id=10224910611",
-                "Contributors":[
-                    988780182,
-                    80271310
-                ]
+                "SFSprite":"http://www.roblox.com/asset/?id=11266629662",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266628614",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266649925",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266630835"
             }
         ],
         "Rosebug":[
@@ -5790,9 +6698,9 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=9213931297"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10044137428",
+                "SFSprite":"http://www.roblox.com/asset/?id=11306719304",
                 "Name":"Nature",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10044134182",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11306717683",
                 "SBSprite":"http://www.roblox.com/asset/?id=10044146384",
                 "BackSprite":"http://www.roblox.com/asset/?id=10044144720"
             },
@@ -5802,6 +6710,34 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10217832285",
                 "SBSprite":"http://www.roblox.com/asset/?id=10217842272",
                 "BackSprite":"http://www.roblox.com/asset/?id=10217838337"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266073575",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266073024",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266074332",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266114187"
+            }
+        ],
+        "Hattrix":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254173649",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254172148",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254174610",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254174610",
+                "Contributors":[
+                    184428472,
+                    28581543
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11286237055",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11286236266",
+                "SBSprite":"http://www.roblox.com/asset/?id=11286238805",
+                "BackSprite":"http://www.roblox.com/asset/?id=11286238340"
             }
         ],
         "Muttish":[
@@ -5868,74 +6804,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10914890038",
                 "SBSprite":"http://www.roblox.com/asset/?id=10914891470",
                 "BackSprite":"http://www.roblox.com/asset/?id=10914891100"
-            }
-        ],
-        "Exovul":[
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=9698317033",
-                "Name":"Music",
-                "FrontSprite":"http://www.roblox.com/asset/?id=9698314797",
-                "SBSprite":"http://www.roblox.com/asset/?id=9698331012",
-                "BackSprite":"http://www.roblox.com/asset/?id=9698326741"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10325353292",
-                "Name":"Crystalized",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10325352913",
-                "SBSprite":"http://www.roblox.com/asset/?id=10325354427",
-                "BackSprite":"http://www.roblox.com/asset/?id=10325353795"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10570095472",
-                "Name":"Bio Flask",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10570093374",
-                "SBSprite":"http://www.roblox.com/asset/?id=10570102418",
-                "BackSprite":"http://www.roblox.com/asset/?id=10570099813"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10914930440",
-                "Name":"Apocalypse",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10914913259",
-                "SBSprite":"http://www.roblox.com/asset/?id=10914914541",
-                "BackSprite":"http://www.roblox.com/asset/?id=10914914066"
-            }
-        ],
-        "Pandishi":[
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10240777449",
-                "Name":"Luchador",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10240776156",
-                "SBSprite":"http://www.roblox.com/asset/?id=10240780688",
-                "BackSprite":"http://www.roblox.com/asset/?id=10240778858"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10315711318",
-                "Name":"Lantern Festival",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10315710241",
-                "SBSprite":"http://www.roblox.com/asset/?id=10315712401",
-                "BackSprite":"http://www.roblox.com/asset/?id=10315711846"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10325902876",
-                "Name":"Scribbled",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10325902338",
-                "SBSprite":"http://www.roblox.com/asset/?id=10325903951",
-                "BackSprite":"http://www.roblox.com/asset/?id=10325903303"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10457044594",
-                "Name":"Kitchen Mishap",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10457043326",
-                "SBSprite":"http://www.roblox.com/asset/?id=10457046977",
-                "BackSprite":"http://www.roblox.com/asset/?id=10457045901"
-            },
-            {
-                "SFSprite":"http://www.roblox.com/asset/?id=10912810159",
-                "Premium":true,
-                "Name":"Martial Artist",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10912807891",
-                "SBSprite":"http://www.roblox.com/asset/?id=10912812188",
-                "BackSprite":"http://www.roblox.com/asset/?id=10912811481"
+                "SFSprite":"http://www.roblox.com/asset/?id=11229847652",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11229846923",
+                "SBSprite":"http://www.roblox.com/asset/?id=11229848496",
+                "BackSprite":"http://www.roblox.com/asset/?id=11229847996"
             }
         ],
         "Spiraryu":[
@@ -5990,6 +6865,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643741074",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643742588",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643742129"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11180041453",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11180039290",
+                "SBSprite":"http://www.roblox.com/asset/?id=11180048659",
+                "BackSprite":"http://www.roblox.com/asset/?id=11180047228"
             }
         ],
         "Kowosu":[
@@ -6044,6 +6926,37 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643738636",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643740264",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643739617"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11180029951",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11180028785",
+                "SBSprite":"http://www.roblox.com/asset/?id=11180035027",
+                "BackSprite":"http://www.roblox.com/asset/?id=11180032392"
+            }
+        ],
+        "Runewt":[
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11108530036",
+                "Name":"Temple Guardian",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11108529728",
+                "SBSprite":"http://www.roblox.com/asset/?id=11108530766",
+                "BackSprite":"http://www.roblox.com/asset/?id=11108530452",
+                "Contributors":[
+                    1081889657,
+                    1050797054
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266213103",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266212529",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266213972",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266213531",
+                "Contributors":[
+                    880765124,
+                    23344637
+                ]
             }
         ],
         "Kitsen":[
@@ -6144,6 +7057,28 @@
                     135784877,
                     502378912
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11152604463",
+                "Name":"Wizard",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11152604178",
+                "SBSprite":"http://www.roblox.com/asset/?id=11152604938",
+                "BackSprite":"http://www.roblox.com/asset/?id=11155929364",
+                "Contributors":[
+                    1050797054,
+                    2832061905
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11258240387",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11258219792",
+                "SBSprite":"http://www.roblox.com/asset/?id=11258220961",
+                "BackSprite":"http://www.roblox.com/asset/?id=11258220356",
+                "Contributors":[
+                    1134221344,
+                    84585194
+                ]
             }
         ],
         "Sharpup":[
@@ -6221,6 +7156,17 @@
                     1050797054,
                     3450875223
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284643562",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284642425",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284648046",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284644482",
+                "Contributors":[
+                    1134221344,
+                    1273948084
+                ]
             }
         ],
         "Wolfreeze":[
@@ -6266,6 +7212,17 @@
                     84585194,
                     72405233
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11277170209",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11277235990",
+                "SBSprite":"http://www.roblox.com/asset/?id=11277170071",
+                "BackSprite":"http://www.roblox.com/asset/?id=11277170071",
+                "Contributors":[
+                    185022146,
+                    28581543
+                ]
             }
         ],
         "Kidere":[
@@ -6304,6 +7261,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10922440008",
                 "SBSprite":"http://www.roblox.com/asset/?id=10922442041",
                 "BackSprite":"http://www.roblox.com/asset/?id=10922441622"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11296377894",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11296460748",
+                "SBSprite":"http://www.roblox.com/asset/?id=11296362845",
+                "BackSprite":"http://www.roblox.com/asset/?id=11247625042"
             }
         ],
         "Shyce":[
@@ -6342,6 +7306,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10922432146",
                 "SBSprite":"http://www.roblox.com/asset/?id=10922434193",
                 "BackSprite":"http://www.roblox.com/asset/?id=10922433580"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11247743908",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11247600533",
+                "SBSprite":"http://www.roblox.com/asset/?id=11247768867",
+                "BackSprite":"http://www.roblox.com/asset/?id=11247720747"
             }
         ],
         "Meltimaw":[
@@ -6527,6 +7498,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10643189914",
                 "SBSprite":"http://www.roblox.com/asset/?id=10643191295",
                 "BackSprite":"http://www.roblox.com/asset/?id=10643190887"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11173616962",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11173578434",
+                "SBSprite":"http://www.roblox.com/asset/?id=11173619083",
+                "BackSprite":"http://www.roblox.com/asset/?id=11173618535"
             }
         ],
         "Slibble":[
@@ -6551,6 +7530,21 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10998812261",
                 "SBSprite":"http://www.roblox.com/asset/?id=10998818781",
                 "BackSprite":"http://www.roblox.com/asset/?id=10998814689"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11196529890",
+                "Name":"Bookworm",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11196529029",
+                "SBSprite":"http://www.roblox.com/asset/?id=11196542585",
+                "BackSprite":"http://www.roblox.com/asset/?id=11196610433"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240212502",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240211934",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240213686",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240213196"
             }
         ],
         "Muncheez":[
@@ -6663,6 +7657,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10723531979",
                 "SBSprite":"http://www.roblox.com/asset/?id=10723540157",
                 "BackSprite":"http://www.roblox.com/asset/?id=10723535151"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309410172",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309410255",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309409947",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309410081"
             }
         ],
         "Webennae":[
@@ -6701,6 +7702,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10720266854",
                 "SBSprite":"http://www.roblox.com/asset/?id=10720270424",
                 "BackSprite":"http://www.roblox.com/asset/?id=10720269737"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266858381",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266857711",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266859360",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266858890"
             }
         ],
         "Shelldo":[
@@ -6754,6 +7762,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10723527440",
                 "SBSprite":"http://www.roblox.com/asset/?id=10723530773",
                 "BackSprite":"http://www.roblox.com/asset/?id=10723529442"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309410580",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309410669",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309410312",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309410466"
             }
         ],
         "Caramellow":[
@@ -6781,6 +7796,7 @@
             },
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10997085167",
+                "Premium":true,
                 "Name":"Kitty Dango",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10997081832",
                 "SBSprite":"http://www.roblox.com/asset/?id=10997093417",
@@ -6788,6 +7804,18 @@
                 "Contributors":[
                     1134221344,
                     424521438
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11198317632",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11198317292",
+                "SBSprite":"http://www.roblox.com/asset/?id=11198318632",
+                "BackSprite":"http://www.roblox.com/asset/?id=11198318220",
+                "Contributors":[
+                    1440775701,
+                    1050797054
                 ]
             }
         ],
@@ -6835,6 +7863,35 @@
                     135784877,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11158055230",
+                "Name":"Academic",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11158054587",
+                "SBSprite":"http://www.roblox.com/asset/?id=11164645815",
+                "BackSprite":"http://www.roblox.com/asset/?id=11158056165",
+                "Contributors":[
+                    84585194,
+                    1050797054
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11267087424",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11267086811",
+                "SBSprite":"http://www.roblox.com/asset/?id=11267088862",
+                "BackSprite":"http://www.roblox.com/asset/?id=11267088230",
+                "Contributors":[
+                    122546553,
+                    1134221344
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11309451194",
+                "Name":"Prestige",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309401053",
+                "SBSprite":"http://www.roblox.com/asset/?id=11309400883",
+                "BackSprite":"http://www.roblox.com/asset/?id=11309400954"
             }
         ],
         "Plipo":[
@@ -6894,6 +7951,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10569162355",
                 "SBSprite":"http://www.roblox.com/asset/?id=10569165660",
                 "BackSprite":"http://www.roblox.com/asset/?id=10569165017"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284738319",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284594364",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284599450",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284758901"
             }
         ],
         "Larvennae":[
@@ -6932,6 +7997,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10720270929",
                 "SBSprite":"http://www.roblox.com/asset/?id=10720272921",
                 "BackSprite":"http://www.roblox.com/asset/?id=10720272325"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266850919",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266850368",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266852460",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266852007"
             }
         ],
         "Kelpie":[
@@ -6984,6 +8056,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10878917849",
                 "SBSprite":"http://www.roblox.com/asset/?id=10878916992",
                 "BackSprite":"http://www.roblox.com/asset/?id=10878922656"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11279946727",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11279945863",
+                "SBSprite":"http://www.roblox.com/asset/?id=11280043385",
+                "BackSprite":"http://www.roblox.com/asset/?id=11279947442"
             }
         ],
         "Cocosquid":[
@@ -7043,6 +8122,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10859665764",
                 "SBSprite":"http://www.roblox.com/asset/?id=10859666743",
                 "BackSprite":"http://www.roblox.com/asset/?id=10859666459"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11116311423",
+                "Name":"Splat",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11116310315",
+                "SBSprite":"http://www.roblox.com/asset/?id=11116314083",
+                "BackSprite":"http://www.roblox.com/asset/?id=11116312386"
             }
         ],
         "Skadean":[
@@ -7102,6 +8188,18 @@
                 "Contributors":[
                     654599347,
                     72405233
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11283340465",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11283136483",
+                "SBSprite":"http://www.roblox.com/asset/?id=11283135315",
+                "BackSprite":"http://www.roblox.com/asset/?id=11283134725",
+                "Contributors":[
+                    1430623090,
+                    1352768800,
+                    250350284
                 ]
             }
         ],
@@ -7252,6 +8350,17 @@
                     1068980500,
                     72405233
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11181287968",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11181285732",
+                "SBSprite":"http://www.roblox.com/asset/?id=11181290796",
+                "BackSprite":"http://www.roblox.com/asset/?id=11181289724",
+                "Contributors":[
+                    23344637,
+                    599104111
+                ]
             }
         ],
         "Glimmew":[
@@ -7296,6 +8405,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10722958541",
                 "SBSprite":"http://www.roblox.com/asset/?id=10722960780",
                 "BackSprite":"http://www.roblox.com/asset/?id=10722960092"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11094858482",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11094857669",
+                "SBSprite":"http://www.roblox.com/asset/?id=11094861722",
+                "BackSprite":"http://www.roblox.com/asset/?id=11094859386"
             }
         ],
         "Elektiel":[
@@ -7342,7 +8458,7 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=10708124135"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10936336569",
+                "SFSprite":"http://www.roblox.com/asset/?id=10936337552",
                 "Premium":true,
                 "Name":"Cybernetic",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10936336569",
@@ -7370,7 +8486,7 @@
                 ]
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10570118065",
+                "SFSprite":"http://www.roblox.com/asset/?id=11230601864",
                 "Name":"Bio Flask",
                 "FrontSprite":"http://www.roblox.com/asset/?id=10570115262",
                 "SBSprite":"http://www.roblox.com/asset/?id=10570122704",
@@ -7441,6 +8557,17 @@
                     1809781826,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11272378121",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11272378246",
+                "SBSprite":"http://www.roblox.com/asset/?id=11272377743",
+                "BackSprite":"http://www.roblox.com/asset/?id=11272377979",
+                "Contributors":[
+                    135784877,
+                    880765124
+                ]
             }
         ],
         "Maskomedy":[
@@ -7500,6 +8627,17 @@
                     321996764,
                     28581543
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284950965",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284949919",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284953108",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284951845",
+                "Contributors":[
+                    1134221344,
+                    2021045374
+                ]
             }
         ],
         "Lilbulb":[
@@ -7551,6 +8689,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10495133824",
                 "SBSprite":"http://www.roblox.com/asset/?id=10495139236",
                 "BackSprite":"http://www.roblox.com/asset/?id=10495137116"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284714557",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284713597",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284718385",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284850992"
             }
         ],
         "Cryotera":[
@@ -7607,6 +8752,18 @@
                     988780182,
                     82309270
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11240111981",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11240111529",
+                "SBSprite":"http://www.roblox.com/asset/?id=11240262352",
+                "BackSprite":"http://www.roblox.com/asset/?id=11240112878",
+                "Contributors":[
+                    660519587,
+                    135784877
+                ]
             }
         ],
         "Coalt":[
@@ -7659,6 +8816,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10790695587",
                 "SBSprite":"http://www.roblox.com/asset/?id=10790698629",
                 "BackSprite":"http://www.roblox.com/asset/?id=10790697122"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11277173813",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11277174054",
+                "SBSprite":"http://www.roblox.com/asset/?id=11277173636",
+                "BackSprite":"http://www.roblox.com/asset/?id=11277222287"
             }
         ],
         "Crystik":[
@@ -7813,6 +8977,17 @@
                     332441582,
                     1050797054
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11100128482",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11100127639",
+                "SBSprite":"http://www.roblox.com/asset/?id=11100129545",
+                "BackSprite":"http://www.roblox.com/asset/?id=11100128880",
+                "Contributors":[
+                    880765124,
+                    1050797054
+                ]
             }
         ],
         "Prickles":[
@@ -7866,6 +9041,17 @@
                     55338957,
                     1134221344
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266513585",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266513288",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266514434",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266513958",
+                "Contributors":[
+                    723016021,
+                    135784877
+                ]
             }
         ],
         "Needling":[
@@ -7903,6 +9089,13 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10937390015",
                 "SBSprite":"http://www.roblox.com/asset/?id=10937428944",
                 "BackSprite":"http://www.roblox.com/asset/?id=10937409934"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266485331",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266484591",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266485982",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266485661"
             }
         ],
         "Swoptar":[
@@ -7928,11 +9121,11 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=10059879526"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=10064217029",
+                "SFSprite":"http://www.roblox.com/asset/?id=11309040726",
                 "Name":"Mercenary",
-                "FrontSprite":"http://www.roblox.com/asset/?id=10064198425",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11309020147",
                 "SBSprite":"http://www.roblox.com/asset/?id=10064219689",
-                "BackSprite":"http://www.roblox.com/asset/?id=10261592241"
+                "BackSprite":"http://www.roblox.com/asset/?id=10064218347"
             },
             {
                 "SFSprite":"http://www.roblox.com/asset/?id=10121056722",
@@ -7958,6 +9151,30 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10327765884",
                 "SBSprite":"http://www.roblox.com/asset/?id=10327770207",
                 "BackSprite":"http://www.roblox.com/asset/?id=10327769071"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11092928364",
+                "Discontinued":true,
+                "Name":"Steampunk",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11092926473",
+                "SBSprite":"http://www.roblox.com/asset/?id=11092928820",
+                "BackSprite":"http://www.roblox.com/asset/?id=11092928577",
+                "Contributors":[
+                    1593784520,
+                    1050797054
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=10965419748",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=10965418413",
+                "SBSprite":"http://www.roblox.com/asset/?id=10965421310",
+                "BackSprite":"http://www.roblox.com/asset/?id=10965420662",
+                "Contributors":[
+                    23344637,
+                    1463686083
+                ]
             }
         ],
         "Corrolizard":[
@@ -8011,6 +9228,18 @@
                     577922417,
                     988780182
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254678440",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254707605",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254679937",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254678985",
+                "Contributors":[
+                    247745361,
+                    988780182
+                ]
             }
         ],
         "Grimeleon":[
@@ -8056,6 +9285,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10647821635",
                 "SBSprite":"http://www.roblox.com/asset/?id=10647832727",
                 "BackSprite":"http://www.roblox.com/asset/?id=10647831421"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11254703249",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11254700934",
+                "SBSprite":"http://www.roblox.com/asset/?id=11254706782",
+                "BackSprite":"http://www.roblox.com/asset/?id=11254703812"
             }
         ],
         "Antenaflight":[
@@ -8075,7 +9312,7 @@
                 "BackSprite":"http://www.roblox.com/asset/?id=9405529946"
             },
             {
-                "SFSprite":"http://www.roblox.com/asset/?id=9935222039",
+                "SFSprite":"http://www.roblox.com/asset/?id=9956705148",
                 "Name":"On A String",
                 "FrontSprite":"http://www.roblox.com/asset/?id=9935219160",
                 "SBSprite":"http://www.roblox.com/asset/?id=9935224215",
@@ -8097,6 +9334,17 @@
                 "Contributors":[
                     23344637,
                     1463686083
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266861043",
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266860011",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266862566",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266861903",
+                "Contributors":[
+                    1605209594,
+                    1134221344
                 ]
             }
         ],
@@ -8335,6 +9583,18 @@
                     1616999884,
                     1050797054
                 ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11266125757",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11266076472",
+                "SBSprite":"http://www.roblox.com/asset/?id=11266078042",
+                "BackSprite":"http://www.roblox.com/asset/?id=11266077581",
+                "Contributors":[
+                    1463686083,
+                    1352768800
+                ]
             }
         ],
         "Nibblen":[
@@ -8423,6 +9683,14 @@
                 "FrontSprite":"http://www.roblox.com/asset/?id=10862435213",
                 "SBSprite":"http://www.roblox.com/asset/?id=10862439055",
                 "BackSprite":"http://www.roblox.com/asset/?id=10862437660"
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11157294501",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11157294180",
+                "SBSprite":"http://www.roblox.com/asset/?id=11157296098",
+                "BackSprite":"http://www.roblox.com/asset/?id=11157294951"
             }
         ],
         "Groato":[
@@ -8489,6 +9757,18 @@
                 "Contributors":[
                     1060759874,
                     87921828
+                ]
+            },
+            {
+                "SFSprite":"http://www.roblox.com/asset/?id=11284601272",
+                "Halloween":true,
+                "Name":"Halloween",
+                "FrontSprite":"http://www.roblox.com/asset/?id=11284761764",
+                "SBSprite":"http://www.roblox.com/asset/?id=11284603715",
+                "BackSprite":"http://www.roblox.com/asset/?id=11284602763",
+                "Contributors":[
+                    1134221344,
+                    135784877
                 ]
             }
         ]
