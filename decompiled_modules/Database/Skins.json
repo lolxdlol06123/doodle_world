@@ -678,6 +678,13 @@
             "Name": "Pastry",
             "SBSprite": "http://www.roblox.com/asset/?id=11498736578",
             "SFSprite": "http://www.roblox.com/asset/?id=11498735325"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11605124709",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11605096217",
+            "Name": "Hard Candy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11605125274",
+            "SFSprite": "http://www.roblox.com/asset/?id=11605124119"
         }
     ],
     "Beetal": [
@@ -1795,6 +1802,17 @@
             "Name": "Skulk",
             "SBSprite": "http://www.roblox.com/asset/?id=11356532361",
             "SFSprite": "http://www.roblox.com/asset/?id=11356527610"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584836556",
+            "Contributors": [
+                1134221344,
+                1516664397
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584862768",
+            "Name": "Nuclear",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584836519",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584862669"
         }
     ],
     "Chronos": [
@@ -1894,6 +1912,17 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11353898790"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601689653",
+            "Contributors": [
+                1050797054,
+                58759115
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601689889",
+            "Name": "Project Gamma",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601689533",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601689769"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9120084393",
             "FrontSprite": "http://www.roblox.com/asset/?id=9120082019",
             "Name": "Scribbled",
@@ -1936,6 +1965,13 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11353898994",
             "SFSprite": "http://www.roblox.com/asset/?id=11353899284"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601690199",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601690478",
+            "Name": "Project Gamma",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601690057",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601690280"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9119796577",
@@ -2296,6 +2332,26 @@
             "Name": "Pirate",
             "SBSprite": "http://www.roblox.com/asset/?id=11453268840",
             "SFSprite": "http://www.roblox.com/asset/?id=11453269041"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601688533",
+            "Contributors": [
+                23344637,
+                3450875223
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601688844",
+            "Name": "Spirit Umbrella",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601688410",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601688642"
+        }
+    ],
+    "Dewaffe": [
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604711348",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604709836",
+            "Name": "Prestige",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604712879",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604710704"
         }
     ],
     "Djinneko": [
@@ -2428,6 +2484,17 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11100090457",
             "SFSprite": "http://www.roblox.com/asset/?id=11100089209"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11607233541",
+            "Contributors": [
+                50834052,
+                988780182
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11607233919",
+            "Name": "Training Dummy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11607233382",
+            "SFSprite": "http://www.roblox.com/asset/?id=11607233664"
         }
     ],
     "Dramask": [
@@ -3030,6 +3097,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11506983178"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584837494",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584837592",
+            "Name": "Mafia",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584837385",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584837546"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=7673051385",
             "FrontSprite": "http://www.roblox.com/asset/?id=7673040971",
             "Name": "Scribbled",
@@ -3199,6 +3273,22 @@
             "Name": "Ramen",
             "SBSprite": "http://www.roblox.com/asset/?id=11462326961",
             "SFSprite": "http://www.roblox.com/asset/?id=11462327126"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604626630",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604625121",
+            "Name": "Pumpkin Spice",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604627599",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604625984"
+        }
+    ],
+    "Girasera": [
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604716042",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604713828",
+            "Name": "Prestige",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604717254",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604714629"
         }
     ],
     "Glimmew": [
@@ -3230,6 +3320,13 @@
             "Name": "Scribbled",
             "SBSprite": "http://www.roblox.com/asset/?id=11317064925",
             "SFSprite": "http://www.roblox.com/asset/?id=11317065005"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604683014",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604681725",
+            "Name": "Desert Wanderer",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604683938",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604682476"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9122992703",
@@ -3291,6 +3388,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11317064833"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604687155",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604685538",
+            "Name": "Desert Wanderer",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604687962",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604686185"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9123021429",
             "FrontSprite": "http://www.roblox.com/asset/?id=9123019850",
             "Name": "Socialight",
@@ -3344,6 +3448,17 @@
             "Name": "Halloween 2022",
             "SBSprite": "http://www.roblox.com/asset/?id=11266834781",
             "SFSprite": "http://www.roblox.com/asset/?id=11240314518"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11546284362",
+            "Contributors": [
+                1352768800,
+                988780182
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11546283122",
+            "Name": "Simple",
+            "SBSprite": "http://www.roblox.com/asset/?id=11546285264",
+            "SFSprite": "http://www.roblox.com/asset/?id=11546283626"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=8717755671",
@@ -3808,6 +3923,17 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11284601272"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11602690801",
+            "Contributors": [
+                1050797054,
+                1329693312
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11602690965",
+            "Name": "Crafty",
+            "SBSprite": "http://www.roblox.com/asset/?id=11602712472",
+            "SFSprite": "http://www.roblox.com/asset/?id=11602690881"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9021275816",
             "FrontSprite": "http://www.roblox.com/asset/?id=9021273592",
             "Name": "Scribbled",
@@ -4109,6 +4235,13 @@
             "Name": "Ramen",
             "SBSprite": "http://www.roblox.com/asset/?id=11462327515",
             "SFSprite": "http://www.roblox.com/asset/?id=11462327706"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604482034",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604482659",
+            "Name": "Pumpkin Spice",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604483913",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604483440"
         }
     ],
     "Henchum": [
@@ -4158,6 +4291,17 @@
             "Name": "Junkyard",
             "SBSprite": "http://www.roblox.com/asset/?id=11496575686",
             "SFSprite": "http://www.roblox.com/asset/?id=11496573235"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11607231771",
+            "Contributors": [
+                440413960,
+                988780182
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11607232185",
+            "Name": "Miner",
+            "SBSprite": "http://www.roblox.com/asset/?id=11607231553",
+            "SFSprite": "http://www.roblox.com/asset/?id=11607232026"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9204658115",
@@ -4272,6 +4416,17 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11453405016"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584835810",
+            "Contributors": [
+                28581543,
+                858637423
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584835969",
+            "Name": "Sleepy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584835748",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584835896"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9292358426",
             "FrontSprite": "http://www.roblox.com/asset/?id=9292357038",
             "Name": "Kaiju",
@@ -4381,6 +4536,13 @@
             "Name": "Pirate",
             "SBSprite": "http://www.roblox.com/asset/?id=11453269215",
             "SFSprite": "http://www.roblox.com/asset/?id=11453269476"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601689155",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601689411",
+            "Name": "Spirit Umbrella",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601689055",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601715279"
         }
     ],
     "Incinelisk": [
@@ -4601,6 +4763,18 @@
             "Name": "Prestige",
             "SBSprite": "http://www.roblox.com/asset/?id=11478991344",
             "SFSprite": "http://www.roblox.com/asset/?id=11478991667"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11602690193",
+            "Contributors": [
+                1134221344,
+                1352768800,
+                59978094
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11602690488",
+            "Name": "Endoskeleton",
+            "SBSprite": "http://www.roblox.com/asset/?id=11602689993",
+            "SFSprite": "http://www.roblox.com/asset/?id=11602690362"
         }
     ],
     "Junipyro": [
@@ -5669,6 +5843,17 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11317064528"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604690346",
+            "Contributors": [
+                23344637,
+                28581543
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604688911",
+            "Name": "Desert Wanderer",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604691067",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604689614"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9123046832",
             "FrontSprite": "http://www.roblox.com/asset/?id=9123045157",
             "Name": "Socialight",
@@ -5937,6 +6122,17 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11341946960",
             "SFSprite": "http://www.roblox.com/asset/?id=11341947300"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584837948",
+            "Contributors": [
+                135784877,
+                156639360
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584838550",
+            "Name": "Cosmic",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584837892",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584838460"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9864427328",
@@ -6478,6 +6674,18 @@
             "Name": "Ramen",
             "SBSprite": "http://www.roblox.com/asset/?id=11462327379",
             "SFSprite": "http://www.roblox.com/asset/?id=11462327259"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604630879",
+            "Contributors": [
+                23344637,
+                51262460,
+                577922417
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604629245",
+            "Name": "Pumpkin Spice",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604631550",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604630088"
         }
     ],
     "Metalytra": [
@@ -7036,6 +7244,13 @@
             "Name": "Ramen",
             "SBSprite": "http://www.roblox.com/asset/?id=11462364494",
             "SFSprite": "http://www.roblox.com/asset/?id=11462338757"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11604457459",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11604455985",
+            "Name": "Pumpkin Spice",
+            "SBSprite": "http://www.roblox.com/asset/?id=11604462826",
+            "SFSprite": "http://www.roblox.com/asset/?id=11604456587"
         }
     ],
     "Muttish": [
@@ -7402,6 +7617,13 @@
             "Name": "Ramen Chef",
             "SBSprite": "http://www.roblox.com/asset/?id=11453403036",
             "SFSprite": "http://www.roblox.com/asset/?id=11453403211"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601688009",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601688272",
+            "Name": "Wizard",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601687868",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601688124"
         }
     ],
     "Partybug": [
@@ -7573,6 +7795,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11284738319"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11602691289",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11602691557",
+            "Name": "Crafty",
+            "SBSprite": "http://www.roblox.com/asset/?id=11602691100",
+            "SFSprite": "http://www.roblox.com/asset/?id=11602691446"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9021262889",
             "FrontSprite": "http://www.roblox.com/asset/?id=9021256382",
             "Name": "Scribbled",
@@ -7650,6 +7879,17 @@
             "Name": "Scribbled",
             "SBSprite": "http://www.roblox.com/asset/?id=11404119494",
             "SFSprite": "http://www.roblox.com/asset/?id=11404119722"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11605282844",
+            "Contributors": [
+                1400418681,
+                988780182
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11605281122",
+            "Name": "Heavy Metal",
+            "SBSprite": "http://www.roblox.com/asset/?id=11605283484",
+            "SFSprite": "http://www.roblox.com/asset/?id=11605281987"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9230720998",
@@ -7851,6 +8091,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11506983672"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584837698",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584864941",
+            "Name": "Mafia",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584837632",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584837771"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=7673003055",
             "FrontSprite": "http://www.roblox.com/asset/?id=7672999101",
             "Name": "Scribbled",
@@ -7901,6 +8148,13 @@
             "Name": "Junkyard",
             "SBSprite": "http://www.roblox.com/asset/?id=11496568872",
             "SFSprite": "http://www.roblox.com/asset/?id=11496567322"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11607232580",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11607233125",
+            "Name": "Miner",
+            "SBSprite": "http://www.roblox.com/asset/?id=11607232407",
+            "SFSprite": "http://www.roblox.com/asset/?id=11607277940"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9204630183",
@@ -8285,6 +8539,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11453405551"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584836089",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584836202",
+            "Name": "Sleepy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584836031",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584836153"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9292356297",
             "FrontSprite": "http://www.roblox.com/asset/?id=9292355718",
             "Name": "Kaiju",
@@ -8396,6 +8657,13 @@
             "Name": "Dark Crusader",
             "SBSprite": "http://www.roblox.com/asset/?id=11453405811",
             "SFSprite": "http://www.roblox.com/asset/?id=11453406058"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584863882",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584836464",
+            "Name": "Sleepy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584836302",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584836420"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9292354860",
@@ -8659,6 +8927,17 @@
             "Name": "Pastry",
             "SBSprite": "http://www.roblox.com/asset/?id=11498734488",
             "SFSprite": "http://www.roblox.com/asset/?id=11498734899"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11605127815",
+            "Contributors": [
+                23344637,
+                2879061016
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11605126425",
+            "Name": "Hard Candy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11605128339",
+            "SFSprite": "http://www.roblox.com/asset/?id=11605127095"
         }
     ],
     "Skrappey": [
@@ -8682,6 +8961,13 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11353899588",
             "SFSprite": "http://www.roblox.com/asset/?id=11353993022"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601690671",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601690895",
+            "Name": "Project Gamma",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601690579",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601690777"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9119648869",
@@ -8771,6 +9057,13 @@
             "Name": "Skulk",
             "SBSprite": "http://www.roblox.com/asset/?id=11356526002",
             "SFSprite": "http://www.roblox.com/asset/?id=11356523963"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584836815",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584862887",
+            "Name": "Nuclear",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584836730",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584836883"
         }
     ],
     "Snobat": [
@@ -9209,6 +9502,13 @@
             "Name": "Scribbled",
             "SBSprite": "http://www.roblox.com/asset/?id=11404119979",
             "SFSprite": "http://www.roblox.com/asset/?id=11404120269"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11605279687",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11605278262",
+            "Name": "Heavy Metal",
+            "SBSprite": "http://www.roblox.com/asset/?id=11605280549",
+            "SFSprite": "http://www.roblox.com/asset/?id=11605278884"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9230718177",
@@ -10440,6 +10740,17 @@
             "Name": "Ramen Chef",
             "SBSprite": "http://www.roblox.com/asset/?id=11453402584",
             "SFSprite": "http://www.roblox.com/asset/?id=11453402825"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11601702346",
+            "Contributors": [
+                28581543,
+                427728887
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11601687656",
+            "Name": "Wizard",
+            "SBSprite": "http://www.roblox.com/asset/?id=11601687201",
+            "SFSprite": "http://www.roblox.com/asset/?id=11601702492"
         }
     ],
     "Tufflaze": [
@@ -10636,6 +10947,13 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11100086135",
             "SFSprite": "http://www.roblox.com/asset/?id=11100085047"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11607235354",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11607278104",
+            "Name": "Training Dummy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11607235125",
+            "SFSprite": "http://www.roblox.com/asset/?id=11607235575"
         }
     ],
     "Vipember": [
@@ -11138,6 +11456,13 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11404120623"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11605275537",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11605273278",
+            "Name": "Heavy Metal",
+            "SBSprite": "http://www.roblox.com/asset/?id=11605276377",
+            "SFSprite": "http://www.roblox.com/asset/?id=11605274475"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=9230714393",
             "FrontSprite": "http://www.roblox.com/asset/?id=9230712889",
             "Name": "Prestige",
@@ -11224,6 +11549,17 @@
             "SFSprite": "http://www.roblox.com/asset/?id=11506982611"
         },
         {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584837107",
+            "Contributors": [
+                1605209594,
+                23344637
+            ],
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584837231",
+            "Name": "Mafia",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584837044",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584837142"
+        },
+        {
             "BackSprite": "http://www.roblox.com/asset/?id=7673078451",
             "FrontSprite": "http://www.roblox.com/asset/?id=7673067785",
             "Name": "Scribbled",
@@ -11266,6 +11602,13 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11100088163",
             "SFSprite": "http://www.roblox.com/asset/?id=11100087069"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11607234455",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11607234934",
+            "Name": "Training Dummy",
+            "SBSprite": "http://www.roblox.com/asset/?id=11607234216",
+            "SFSprite": "http://www.roblox.com/asset/?id=11607234720"
         }
     ],
     "Wydling": [
@@ -11311,6 +11654,13 @@
             "Name": "Halloween",
             "SBSprite": "http://www.roblox.com/asset/?id=11341947586",
             "SFSprite": "http://www.roblox.com/asset/?id=11341999793"
+        },
+        {
+            "BackSprite": "http://www.roblox.com/asset/?id=11584838716",
+            "FrontSprite": "http://www.roblox.com/asset/?id=11584838776",
+            "Name": "Cosmic",
+            "SBSprite": "http://www.roblox.com/asset/?id=11584838624",
+            "SFSprite": "http://www.roblox.com/asset/?id=11584838671"
         },
         {
             "BackSprite": "http://www.roblox.com/asset/?id=9864423271",
